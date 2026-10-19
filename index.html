@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>산성비 영어 단어 게임</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', 'Malgun Gothic', sans-serif;
+    background: linear-gradient(180deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 12px;
+  }
+  h1 { font-size: 1.4rem; margin-bottom: 8px; text-shadow: 0 2px 6px #000; }
+  #hud {
+    display: flex; gap: 18px; margin-bottom: 8px; font-size: 1rem;
+    background: rgba(0,0,0,0.35); padding: 8px 18px; border-radius: 10px;
+  }
+  #hud span b { color: #7ef9c7; }
+  #gameWrap { position: relative; }
+  canvas {
+    background: radial-gradient(circle at 50% 0%, #17384a, #0a1a24);
+    border: 2px solid #3a6a7a;
+    border-radius: 12px;
+    display: block;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+  }
+  #inputArea { margin-top: 10px; display: flex; gap: 8px; }
+  #wordInput {
+    padding: 10px 14px; font-size: 1.1rem; border-radius: 8px;
+    border: 2px solid #3a6a7a; background: #0a1a24; color: #7ef9c7;
+    outline: none; width: 260px; text-align: center; letter-spacing: 1px;
+  }
+  #wordInput:focus { border-color: #7ef9c7; box-shadow: 0 0 10px #7ef9c755; }
+  button {
+    padding: 10px 18px; font-size: 1rem; border-radius: 8px; border: none;
+    background: #1f8a70; color: #fff; cursor: pointer; font-weight: bold;
+    transition: 0.15s;
+  }
+  button:hover { background: #26a889; }
+  #overlay {
+    position: absolute; inset: 0; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; gap: 16px;
+    background: rgba(0,0,0,0.75); border-radius: 12px; text-align: center;
+    padding: 20px;
+  }
+  #overlay.hidden { display: none; }
+  #overlay h2 { font-size: 1.6rem; color: #7ef9c7; }
+  #overlay p { font-size: 1rem; line-height: 1.6; max-width: 420px; }
+  .hint { font-size: 0.85rem; color: #9db8c4; margin-top: 6px; }
+  #feedback {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+    font-size: 2rem; font-weight: bold; opacity: 0; pointer-events: none;
+  }
+
+  body {padding-bottom:30px} #gameWrap {width:min(100%,720px)} canvas {width:100%;height:auto}
+  #hud,.controls {flex-wrap:wrap;justify-content:center} .controls {display:flex;gap:10px;align-items:center;margin:10px 0;max-width:720px}
+  select,input,textarea {font:inherit;background:#102b38;color:#fff;border:1px solid #588295;border-radius:6px;padding:8px}
+  button:disabled {opacity:.45;cursor:default} details {width:min(100%,720px);background:#102b38;border:1px solid #3a6a7a;border-radius:10px;padding:14px;margin-top:14px}
+  summary {cursor:pointer;font-weight:bold} textarea {width:100%;min-height:90px;margin:10px 0} .review-row {display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid #3a6a7a}
+  #status {min-height:24px;color:#7ef9c7;text-align:center} #wordInput {max-width:90vw} label {display:flex;gap:6px;align-items:center}
+</style>
+</head>
+<body>
+  <h1>🌧️ 영어 단어 산성비</h1>
+  <div id="hud">
+    <span>점수: <b id="score">0</b></span>
+    <span>콤보: <b id="combo">0</b></span>
+    <span>생명: <b id="lives">❤❤❤</b></span>
+    <span>레벨: <b id="level">1</b></span>
+  </div>
+
+  <div class="controls">
+    <label>난이도 <select id="difficulty"><option value="easy">쉬움</option><option value="normal" selected>보통</option><option value="hard">어려움</option></select></label>
+    <label>낙하 속도 <select id="speed"><option value="0.6">느리게 ×0.6</option><option value="1" selected>기본 ×1</option><option value="1.5">빠르게 ×1.5</option></select></label>
+    <label>단어 모음 <select id="category"><option value="daily">일상 영어</option><option value="work">현장 업무 영어</option><option value="custom">내 단어</option><option value="review">복습 단어</option><option value="all">전체</option></select></label>
+  </div>
+  <div class="controls"><span>최고 점수: <b id="best">0</b></span><button id="pauseBtn" disabled>일시정지</button><button id="replayBtn" disabled>발음 다시 듣기</button><label><input id="sound" type="checkbox" checked>정답 발음</label></div>
+  <p id="status" role="status" aria-live="polite"></p>
+  <div id="gameWrap">
+    <canvas id="game" width="720" height="480"></canvas>
+    <div id="feedback"></div>
+    <div id="overlay">
+      <h2>영어 단어 산성비</h2>
+      <p>위에서 떨어지는 <b>영어 단어</b>를 보고, 아래 입력창에 <b>똑같이 입력</b>하고 Enter!<br>
+      단어를 맞히면 <b>발음이 들려요</b> 🔊<br>
+      바닥에 닿으면 생명이 줄어듭니다.</p>
+      <p class="hint">실생활 회화 빈출 단어로 구성되어 있어요.</p>
+      <button id="startBtn">게임 시작</button>
+    </div>
+  </div>
+
+  <div id="inputArea">
+    <input id="wordInput" type="text" placeholder="단어 입력 후 Enter" autocomplete="off" spellcheck="false" disabled />
+  </div>
+
+<details><summary>내 단어 추가</summary><p class="hint">한 줄에 영어 | 한국어 뜻 | 한글 발음(선택). 추가한 단어는 이 브라우저에 저장됩니다.</p><textarea id="customInput" aria-label="추가할 단어" placeholder="sensor | 센서 | 센서&#10;replace | 교체하다 | 리플레이스"></textarea><button id="addWords">단어 추가</button><p id="customCount"></p></details>
+<details open><summary>틀리거나 놓친 단어 복습</summary><p class="hint">오답 입력 시 가장 아래쪽 단어, 바닥에 닿은 단어가 기록됩니다. 복습 시작은 진행 중인 게임을 새로 시작합니다.</p><div class="controls"><button id="reviewStart">복습 게임 시작</button><button id="clearReview">복습 기록 지우기</button></div><div id="reviewList"></div></details>
+<script>
+// ===== 실회화 빈출 단어 (뜻 + 한국어 발음 근사) =====
+const WORDS = [
+  { en: "hello",     ko: "안녕",           pron: "헬로우" },
+  { en: "thanks",    ko: "고마워",         pron: "땡스" },
+  { en: "sorry",     ko: "미안해",         pron: "써리" },
+  { en: "please",    ko: "제발/부디",      pron: "플리즈" },
+  { en: "yes",       ko: "응",             pron: "예스" },
+  { en: "no",        ko: "아니",           pron: "노우" },
+  { en: "water",     ko: "물",             pron: "워러" },
+  { en: "coffee",    ko: "커피",           pron: "커피" },
+  { en: "money",     ko: "돈",             pron: "머니" },
+  { en: "friend",    ko: "친구",           pron: "프렌드" },
+  { en: "family",    ko: "가족",           pron: "패밀리" },
+  { en: "school",    ko: "학교",           pron: "스쿨" },
+  { en: "work",      ko: "일/직장",        pron: "워크" },
+  { en: "home",      ko: "집",             pron: "홈" },
+  { en: "time",      ko: "시간",           pron: "타임" },
+  { en: "today",     ko: "오늘",           pron: "투데이" },
+  { en: "tomorrow",  ko: "내일",           pron: "투마로우" },
+  { en: "happy",     ko: "행복한",         pron: "해피" },
+  { en: "tired",     ko: "피곤한",         pron: "타이어드" },
+  { en: "hungry",    ko: "배고픈",         pron: "헝그리" },
+  { en: "beautiful", ko: "아름다운",       pron: "뷰티풀" },
+  { en: "delicious", ko: "맛있는",         pron: "딜리셔스" },
+  { en: "weather",   ko: "날씨",           pron: "웨더" },
+  { en: "morning",   ko: "아침",           pron: "모닝" },
+  { en: "night",     ko: "밤",             pron: "나이트" },
+  { en: "love",      ko: "사랑",           pron: "러브" },
+  { en: "like",      ko: "좋아하다",       pron: "라이크" },
+  { en: "want",      ko: "원하다",         pron: "원트" },
+  { en: "need",      ko: "필요하다",       pron: "니드" },
+  { en: "help",      ko: "돕다",           pron: "헬프" },
+  { en: "buy",       ko: "사다",           pron: "바이" },
+  { en: "eat",       ko: "먹다",           pron: "이트" },
+  { en: "go",        ko: "가다",           pron: "고우" },
+  { en: "come",      ko: "오다",           pron: "컴" },
+  { en: "see",       ko: "보다",           pron: "씨" },
+  { en: "know",      ko: "알다",           pron: "노우" },
+  { en: "think",     ko: "생각하다",       pron: "씽크" },
+  { en: "really",    ko: "정말",           pron: "리얼리" },
+  { en: "maybe",     ko: "아마도",         pron: "메이비" },
+  { en: "always",    ko: "항상",           pron: "올웨이즈" },
+  { en: "never",     ko: "절대~않다",      pron: "네버" },
+  { en: "again",     ko: "다시",           pron: "어게인" },
+  { en: "together",  ko: "함께",           pron: "투게더" },
+  { en: "question",  ko: "질문",           pron: "퀘스천" },
+  { en: "answer",    ko: "대답",           pron: "앤서" },
+  { en: "problem",   ko: "문제",           pron: "프라블럼" },
+  { en: "exciting",  ko: "신나는",         pron: "익사이팅" },
+  { en: "wonderful", ko: "멋진",           pron: "원더풀" },
+  { en: "favorite",  ko: "가장 좋아하는",  pron: "페이버릿" },
+  { en: "restaurant",ko: "식당",           pron: "레스토랑" },
+  { en: "hospital",  ko: "병원",           pron: "하스피틀" },
+  { en: "airport",   ko: "공항",           pron: "에어포트" },
+  { en: "station",   ko: "역",             pron: "스테이션" },
+  { en: "phone",     ko: "전화",           pron: "폰" },
+  { en: "message",   ko: "메시지",         pron: "메시지" },
+  { en: "listen",    ko: "듣다",           pron: "리슨" },
+  { en: "speak",     ko: "말하다",         pron: "스피크" },
+  { en: "remember",  ko: "기억하다",       pron: "리멤버" },
+  { en: "forget",    ko: "잊다",           pron: "포겟" },
+];
+
+const WORK_WORDS = [
+ ['sensor','센서'],['relay','릴레이'],['motor','모터'],['press','프레스'],['robot','로봇'],['conveyor','컨베이어'],['valve','밸브'],['cylinder','실린더'],['pressure','압력'],['voltage','전압'],['current','전류'],['wiring','배선'],['connector','커넥터'],['brake','브레이크'],['clamp','클램프'],['bolt','볼트'],['bearing','베어링'],['lubrication','윤활'],['inspection','점검'],['maintenance','보전·정비'],['replace','교체하다'],['repair','수리하다'],['fault','고장'],['alarm','경보'],['reset','리셋'],['interlock','인터록'],['guard','방호장치'],['shutdown','정지'],['inventory','재고'],['quantity','수량'],['shelf','선반'],['barcode','바코드'],['spare part','예비 부품'],['emergency stop','비상정지']
+].map(([en,ko])=>({en,ko,pron:''}));
+function readStore(key,fallback) {try {const v=JSON.parse(localStorage.getItem(key));return v??fallback}catch{return fallback}}
+function writeStore(key,value) {try {localStorage.setItem(key,JSON.stringify(value))}catch {document.getElementById('status').textContent='브라우저 저장이 제한되어 이번 실행에서만 유지됩니다.'}}
+let customWords=readStore('rain-custom-v1',[]); if(!Array.isArray(customWords))customWords=[];
+let reviewWords=readStore('rain-review-v1',[]); if(!Array.isArray(reviewWords))reviewWords=[];
+let bestScore=Number(readStore('rain-best-v1',0))||0;
+let paused=false,lastSpoken=null,activePool=[];
+const difficulty=document.getElementById('difficulty'), speed=document.getElementById('speed'), category=document.getElementById('category'), pauseBtn=document.getElementById('pauseBtn');
+const CONFIG={easy:{interval:2400,speed:16,lives:5},normal:{interval:1600,speed:22,lives:3},hard:{interval:1100,speed:34,lives:3}};
+function pool() {return category.value==='daily'?WORDS:category.value==='work'?WORK_WORDS:category.value==='custom'?customWords:category.value==='review'?reviewWords:[...new Map([...WORDS,...WORK_WORDS,...customWords].map(w=>[w.en,w])).values()]}
+function say(w) {lastSpoken=w;document.getElementById('replayBtn').disabled=false;speak(w.en,w.pron)}
+function recordReview(w,reason) {let r=reviewWords.find(x=>x.en===w.en);if(r){r.count=(r.count||0)+1;r.reason=reason}else reviewWords.push({...w,count:1,reason});writeStore('rain-review-v1',reviewWords);renderReview()}
+function renderReview() {
+ const list=document.getElementById('reviewList');list.replaceChildren();
+ if(!reviewWords.length)list.textContent='아직 복습할 단어가 없습니다.';
+ for(const w of reviewWords){const row=document.createElement('div');row.className='review-row';const text=document.createElement('span');text.textContent=`${w.en} — ${w.ko} · ${w.reason} ${w.count}회`;const b=document.createElement('button');b.textContent='듣기';b.onclick=()=>say(w);row.append(text,b);list.append(row)}
+ document.getElementById('customCount').textContent=`내 단어 ${customWords.length}개`;
+ document.getElementById('best').textContent=bestScore;
+}
+document.getElementById('addWords').onclick=()=>{
+ const lines=document.getElementById('customInput').value.split(/\n/).filter(x=>x.trim());let added=0;
+ const parsed=lines.map(line=>{const [en,ko,pron='']=line.split('|').map(x=>x.trim());return {en:en.toLowerCase(),ko,pron}});
+ if(!parsed.length||parsed.some(w=>!w.ko||! /^[a-z]+(?:[ '-][a-z]+)*$/.test(w.en)||w.en.length>32||w.ko.length>60||w.pron.length>60)){document.getElementById('status').textContent='영어 | 한국어 뜻 형식으로 입력해 주세요. 영어는 32자 이내입니다.';return}
+ for(const w of parsed){const i=customWords.findIndex(x=>x.en===w.en);if(i>=0)customWords[i]=w;else{customWords.push(w);added++}}
+ writeStore('rain-custom-v1',customWords);renderReview();document.getElementById('customInput').value='';document.getElementById('status').textContent=`${added}개 추가, 기존 단어 수정 완료. 다음 게임부터 적용됩니다.`;
+};
+document.getElementById('reviewStart').onclick=()=>{category.value='review';startGame()};
+document.getElementById('clearReview').onclick=()=>{reviewWords=[];writeStore('rain-review-v1',reviewWords);renderReview()};
+document.getElementById('replayBtn').onclick=()=>{if(lastSpoken)say(lastSpoken)};
+pauseBtn.onclick=()=>{if(!running)return;paused=!paused;pauseBtn.textContent=paused?'계속하기':'일시정지';wordInput.disabled=paused;lastTime=0;document.getElementById('status').textContent=paused?'일시정지 중입니다.':'';if(paused){if('speechSynthesis'in window)window.speechSynthesis.cancel()}else wordInput.focus()};
+document.addEventListener('visibilitychange',()=>{if(document.hidden&&running&&!paused)pauseBtn.click()});
+speed.onchange=()=>{if(running)document.getElementById('status').textContent='낙하 속도를 변경했습니다.'};
+renderReview();
+
+// ===== 게임 상태 =====
+const canvas = document.getElementById('game');
+const ctx = canvas.getContext('2d');
+const W = canvas.width, H = canvas.height;
+
+const scoreEl   = document.getElementById('score');
+const comboEl   = document.getElementById('combo');
+const livesEl   = document.getElementById('lives');
+const levelEl   = document.getElementById('level');
+const overlay   = document.getElementById('overlay');
+const startBtn  = document.getElementById('startBtn');
+const wordInput = document.getElementById('wordInput');
+const feedbackEl= document.getElementById('feedback');
+
+let state = {};
+let running = false;
+let lastTime = 0;
+let rafId = null;
+
+function resetState() {
+  state = {
+    score: 0,
+    combo: 0,
+    lives: CONFIG[difficulty.value].lives,
+    level: 1,
+    words: [],
+    spawnTimer: 0,
+    spawnInterval: CONFIG[difficulty.value].interval,   // ms
+    baseSpeed: CONFIG[difficulty.value].speed,         // px/sec
+    comboMultiplier: 1,
+    matchedThisSpawn: 0,
+  };
+  updateHUD();
+}
+
+function updateHUD() {
+  scoreEl.textContent = state.score;
+  comboEl.textContent = state.combo;
+  livesEl.textContent = '❤'.repeat(Math.max(0, state.lives)) || '💀';
+  levelEl.textContent = state.level;
+  if(state.score>bestScore){bestScore=state.score;writeStore('rain-best-v1',bestScore);document.getElementById('best').textContent=bestScore;}
+}
+
+// ===== 음성 (Web Speech API) =====
+function speak(word, koPron) {
+  if (!('speechSynthesis' in window)) return;
+  window.speechSynthesis.cancel();
+
+  // 1) 영어 발음
+  const enUtter = new SpeechSynthesisUtterance(word);
+  enUtter.lang = 'en-US';
+  enUtter.rate = 0.9;
+  enUtter.pitch = 1;
+  enUtter.volume = 1;
+
+  // 2) 한국어 발음 근사 표기 (참고용)
+  const koUtter = new SpeechSynthesisUtterance(koPron);
+  koUtter.lang = 'ko-KR';
+  koUtter.rate = 1;
+  koUtter.volume = 0.9;
+
+  window.speechSynthesis.speak(enUtter);
+  if (koPron) window.speechSynthesis.speak(koUtter);
+}
+
+// ===== 단어 생성 =====
+function spawnWord() {
+  const available=activePool.filter(w=>!state.words.some(x=>x.en===w.en));
+  if(!available.length)return;
+  const data = available[Math.floor(Math.random() * available.length)];
+  // 화면 내 중복 방지
+  if (state.words.some(w => w.en === data.en)) return;
+
+  const fontSize = 22;
+  ctx.font = `bold ${fontSize}px 'Segoe UI', sans-serif`;
+  const textW = ctx.measureText(data.en).width;
+
+  state.words.push({
+    ...data,
+    x: 40 + Math.random() * (W - textW - 80),
+    y: -20,
+    vy: state.baseSpeed + state.level * 4 + Math.random() * 8,
+    fontSize,
+    textW,
+    wobble: Math.random() * Math.PI * 2,
+  });
+  state.matchedThisSpawn = 0;
+}
+
+// ===== 게임 루프 =====
+function loop(ts) {
+  if (!running) return;
+  if (!lastTime) lastTime = ts;
+  const dt = Math.min((ts - lastTime) / 1000, 0.05); // 초 단위, 최대 50ms
+  lastTime = ts;
+
+  if(!paused) update(dt);
+  draw();
+
+  rafId = requestAnimationFrame(loop);
+}
+
+function update(dt) {
+  // 단어 이동
+  for (let i = state.words.length - 1; i >= 0; i--) {
+    const w = state.words[i];
+    w.y += w.vy * dt * Number(speed.value);
+    w.wobble += dt * 3;
+
+    // 바닥 도달
+    if (w.y > H - 10) {
+      state.words.splice(i, 1);
+      recordReview(w,'놓침');
+      state.lives--;
+      state.combo = 0;
+      state.comboMultiplier = 1;
+      showFeedback('💥 -1 생명', '#ff6b6b');
+      if (state.lives <= 0) {
+        gameOver();
+        return;
+      }
+      updateHUD();
+    }
+  }
+
+  // 스폰
+  state.spawnTimer += dt * 1000;
+  if (state.spawnTimer >= state.spawnInterval) {
+    state.spawnTimer = 0;
+    spawnWord();
+  }
+
+  // 레벨업 (점수 기준)
+  const newLevel = 1 + Math.floor(state.score / 300);
+  if (newLevel !== state.level) {
+    state.level = newLevel;
+    state.spawnInterval = Math.max(600, CONFIG[difficulty.value].interval - (state.level - 1) * 120);
+    updateHUD();
+  }
+}
+
+function draw() {
+  ctx.clearRect(0, 0, W, H);
+
+  // 배경 그라데이션 효과
+  const grd = ctx.createRadialGradient(W/2, 0, 50, W/2, 0, H);
+  grd.addColorStop(0, '#17384a');
+  grd.addColorStop(1, '#0a1a24');
+  ctx.fillStyle = grd;
+  ctx.fillRect(0, 0, W, H);
+
+  // 바닥 위험선
+  ctx.strokeStyle = 'rgba(255,80,80,0.5)';
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(0, H - 10);
+  ctx.lineTo(W, H - 10);
+  ctx.stroke();
+
+  // 단어 그리기
+  for (const w of state.words) {
+    const wobX = Math.sin(w.wobble) * 2;
+    const isClose = w.y > H - 80;
+
+    // 단어 박스 배경
+    ctx.fillStyle = isClose ? 'rgba(255,80,80,0.25)' : 'rgba(126,249,199,0.12)';
+    roundRect(ctx, w.x - 8 + wobX, w.y - w.fontSize, w.textW + 16, w.fontSize + 12, 8);
+    ctx.fill();
+
+    // 영어 단어
+    ctx.font = `bold ${w.fontSize}px 'Segoe UI', sans-serif`;
+    ctx.fillStyle = isClose ? '#ff8f8f' : '#7ef9c7';
+    ctx.textAlign = 'left';
+    ctx.textBaseline = 'alphabetic';
+    ctx.fillText(w.en, w.x + wobX, w.y);
+
+    // 뜻 (작게, 단어 아래)
+    ctx.font = `12px 'Malgun Gothic', sans-serif`;
+    ctx.fillStyle = 'rgba(200,220,230,0.7)';
+    ctx.fillText(`${w.ko} (${w.pron})`, w.x + wobX, w.y + 14);
+  }
+}
+
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath();
+  ctx.moveTo(x + r, y);
+  ctx.arcTo(x + w, y, x + w, y + h, r);
+  ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r);
+  ctx.arcTo(x, y, x + w, y, r);
+  ctx.closePath();
+}
+
+// ===== 입력 처리 =====
+wordInput.addEventListener('keydown', (e) => {
+  if (e.key !== 'Enter' || e.isComposing || !running || paused) return;
+  const val = wordInput.value.trim().toLowerCase();
+  if (!val) return;
+  wordInput.value = '';
+
+  // 일치하는 단어 찾기
+  const idx = state.words.findIndex(w => w.en.toLowerCase() === val);
+  if (idx !== -1) {
+    const w = state.words[idx];
+    state.words.splice(idx, 1);
+
+    // 점수: 단어 길이 + 콤보 보너스
+    state.combo++;
+    state.comboMultiplier = 1 + Math.floor(state.combo / 3) * 0.5;
+    const gained = Math.round((w.en.length * 10) * state.comboMultiplier);
+    state.score += gained;
+
+    showFeedback(`+${gained}  ${w.en} (${w.ko})`, '#7ef9c7');
+    lastSpoken=w;document.getElementById('replayBtn').disabled=false;
+    if(document.getElementById('sound').checked)say(w);   // 🔊 발음 재생
+
+    updateHUD();
+  } else {
+    // 틀린 입력 → 가장 아래쪽 단어를 복습에 등록
+    const target=state.words.reduce((a,b)=>!a||b.y>a.y?b:a,null);
+    if(target)recordReview(target,'오답');
+    state.combo = 0;
+    state.comboMultiplier = 1;
+    showFeedback('❌ 틀렸어요', '#ff9f43');
+    updateHUD();
+  }
+});
+
+// ===== 피드백 애니메이션 =====
+let feedbackTimeout = null;
+function showFeedback(text, color) {
+  feedbackEl.textContent = text;
+  feedbackEl.style.color = color;
+  feedbackEl.style.transition = 'none';
+  feedbackEl.style.opacity = '1';
+  feedbackEl.style.transform = 'translate(-50%, -50%) scale(1.15)';
+  clearTimeout(feedbackTimeout);
+  requestAnimationFrame(() => {
+    feedbackEl.style.transition = 'opacity 0.8s, transform 0.8s';
+    feedbackEl.style.opacity = '0';
+    feedbackEl.style.transform = 'translate(-50%, -120%) scale(1)';
+  });
+  feedbackTimeout = setTimeout(() => { feedbackEl.style.opacity = '0'; }, 900);
+}
+
+// ===== 시작 / 종료 =====
+function startGame() {
+  const selected=pool();if(!selected.length){document.getElementById('status').textContent='선택한 모음에 단어가 없습니다. 단어를 추가하거나 다른 모음을 선택하세요.';return}
+  activePool=[...new Map(selected.map(w=>[w.en,{en:w.en,ko:w.ko,pron:w.pron||''}])).values()];
+  paused=false;pauseBtn.textContent='일시정지';pauseBtn.disabled=false;difficulty.disabled=true;category.disabled=true;document.getElementById('status').textContent='';
+  if('speechSynthesis'in window)window.speechSynthesis.cancel();
+  resetState();
+  overlay.classList.add('hidden');
+  wordInput.disabled = false;
+  wordInput.value = '';
+  wordInput.focus();
+  running = true;
+  lastTime = 0;
+  state.spawnTimer = state.spawnInterval; // 첫 단어 즉시 생성
+  if (rafId) cancelAnimationFrame(rafId);
+  rafId = requestAnimationFrame(loop);
+}
+
+function gameOver() {
+  running = false;paused=false;pauseBtn.disabled=true;difficulty.disabled=false;category.disabled=false;
+  if (rafId) cancelAnimationFrame(rafId);
+  wordInput.disabled = true;
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+
+  overlay.classList.remove('hidden');
+  overlay.innerHTML = `
+    <h2>🎯 게임 종료!</h2>
+    <p>최종 점수: <b style="color:#7ef9c7;font-size:1.4rem">${state.score}</b><br>
+    도달 레벨: ${state.level}</p>
+    <p class="hint">다시 도전해 볼까요?</p>
+    <button id="restartBtn">다시 시작</button>
+  `;
+  document.getElementById('restartBtn').addEventListener('click', startGame);
+}
+
+startBtn.addEventListener('click', startGame);
+
+// 초기 상태
+resetState();
+draw();
+</script>
+</body>
+</html>
