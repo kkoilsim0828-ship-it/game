@@ -1,0 +1,10802 @@
+[
+  {
+    "en": "hello",
+    "ko": "안녕",
+    "pron": "헬로우",
+    "category": "daily"
+  },
+  {
+    "en": "thanks",
+    "ko": "고마워",
+    "pron": "땡스",
+    "category": "daily"
+  },
+  {
+    "en": "sorry",
+    "ko": "미안해",
+    "pron": "써리",
+    "category": "daily"
+  },
+  {
+    "en": "please",
+    "ko": "제발/부디",
+    "pron": "플리즈",
+    "category": "daily"
+  },
+  {
+    "en": "yes",
+    "ko": "응",
+    "pron": "예스",
+    "category": "daily"
+  },
+  {
+    "en": "no",
+    "ko": "아니",
+    "pron": "노우",
+    "category": "daily"
+  },
+  {
+    "en": "water",
+    "ko": "물",
+    "pron": "워러",
+    "category": "daily"
+  },
+  {
+    "en": "coffee",
+    "ko": "커피",
+    "pron": "커피",
+    "category": "daily"
+  },
+  {
+    "en": "money",
+    "ko": "돈",
+    "pron": "머니",
+    "category": "daily"
+  },
+  {
+    "en": "friend",
+    "ko": "친구",
+    "pron": "프렌드",
+    "category": "daily"
+  },
+  {
+    "en": "family",
+    "ko": "가족",
+    "pron": "패밀리",
+    "category": "daily"
+  },
+  {
+    "en": "school",
+    "ko": "학교",
+    "pron": "스쿨",
+    "category": "daily"
+  },
+  {
+    "en": "work",
+    "ko": "일/직장",
+    "pron": "워크",
+    "category": "daily"
+  },
+  {
+    "en": "home",
+    "ko": "집",
+    "pron": "홈",
+    "category": "daily"
+  },
+  {
+    "en": "time",
+    "ko": "시간",
+    "pron": "타임",
+    "category": "daily"
+  },
+  {
+    "en": "today",
+    "ko": "오늘",
+    "pron": "투데이",
+    "category": "daily"
+  },
+  {
+    "en": "tomorrow",
+    "ko": "내일",
+    "pron": "투마로우",
+    "category": "daily"
+  },
+  {
+    "en": "happy",
+    "ko": "행복한",
+    "pron": "해피",
+    "category": "daily"
+  },
+  {
+    "en": "tired",
+    "ko": "피곤한",
+    "pron": "타이어드",
+    "category": "daily"
+  },
+  {
+    "en": "hungry",
+    "ko": "배고픈",
+    "pron": "헝그리",
+    "category": "daily"
+  },
+  {
+    "en": "beautiful",
+    "ko": "아름다운",
+    "pron": "뷰티풀",
+    "category": "daily"
+  },
+  {
+    "en": "delicious",
+    "ko": "맛있는",
+    "pron": "딜리셔스",
+    "category": "daily"
+  },
+  {
+    "en": "weather",
+    "ko": "날씨",
+    "pron": "웨더",
+    "category": "daily"
+  },
+  {
+    "en": "morning",
+    "ko": "아침",
+    "pron": "모닝",
+    "category": "daily"
+  },
+  {
+    "en": "night",
+    "ko": "밤",
+    "pron": "나이트",
+    "category": "daily"
+  },
+  {
+    "en": "love",
+    "ko": "사랑",
+    "pron": "러브",
+    "category": "daily"
+  },
+  {
+    "en": "like",
+    "ko": "좋아하다",
+    "pron": "라이크",
+    "category": "daily"
+  },
+  {
+    "en": "want",
+    "ko": "원하다",
+    "pron": "원트",
+    "category": "daily"
+  },
+  {
+    "en": "need",
+    "ko": "필요하다",
+    "pron": "니드",
+    "category": "daily"
+  },
+  {
+    "en": "help",
+    "ko": "돕다",
+    "pron": "헬프",
+    "category": "daily"
+  },
+  {
+    "en": "buy",
+    "ko": "사다",
+    "pron": "바이",
+    "category": "daily"
+  },
+  {
+    "en": "eat",
+    "ko": "먹다",
+    "pron": "이트",
+    "category": "daily"
+  },
+  {
+    "en": "go",
+    "ko": "가다",
+    "pron": "고우",
+    "category": "daily"
+  },
+  {
+    "en": "come",
+    "ko": "오다",
+    "pron": "컴",
+    "category": "daily"
+  },
+  {
+    "en": "see",
+    "ko": "보다",
+    "pron": "씨",
+    "category": "daily"
+  },
+  {
+    "en": "know",
+    "ko": "알다",
+    "pron": "노우",
+    "category": "daily"
+  },
+  {
+    "en": "think",
+    "ko": "생각하다",
+    "pron": "씽크",
+    "category": "daily"
+  },
+  {
+    "en": "really",
+    "ko": "정말",
+    "pron": "리얼리",
+    "category": "daily"
+  },
+  {
+    "en": "maybe",
+    "ko": "아마도",
+    "pron": "메이비",
+    "category": "daily"
+  },
+  {
+    "en": "always",
+    "ko": "항상",
+    "pron": "올웨이즈",
+    "category": "daily"
+  },
+  {
+    "en": "never",
+    "ko": "절대~않다",
+    "pron": "네버",
+    "category": "daily"
+  },
+  {
+    "en": "again",
+    "ko": "다시",
+    "pron": "어게인",
+    "category": "daily"
+  },
+  {
+    "en": "together",
+    "ko": "함께",
+    "pron": "투게더",
+    "category": "daily"
+  },
+  {
+    "en": "question",
+    "ko": "질문",
+    "pron": "퀘스천",
+    "category": "daily"
+  },
+  {
+    "en": "answer",
+    "ko": "대답",
+    "pron": "앤서",
+    "category": "daily"
+  },
+  {
+    "en": "problem",
+    "ko": "문제",
+    "pron": "프라블럼",
+    "category": "daily"
+  },
+  {
+    "en": "exciting",
+    "ko": "신나는",
+    "pron": "익사이팅",
+    "category": "daily"
+  },
+  {
+    "en": "wonderful",
+    "ko": "멋진",
+    "pron": "원더풀",
+    "category": "daily"
+  },
+  {
+    "en": "favorite",
+    "ko": "가장 좋아하는",
+    "pron": "페이버릿",
+    "category": "daily"
+  },
+  {
+    "en": "restaurant",
+    "ko": "식당",
+    "pron": "레스토랑",
+    "category": "daily"
+  },
+  {
+    "en": "hospital",
+    "ko": "병원",
+    "pron": "하스피틀",
+    "category": "daily"
+  },
+  {
+    "en": "airport",
+    "ko": "공항",
+    "pron": "에어포트",
+    "category": "daily"
+  },
+  {
+    "en": "station",
+    "ko": "역",
+    "pron": "스테이션",
+    "category": "daily"
+  },
+  {
+    "en": "phone",
+    "ko": "전화",
+    "pron": "폰",
+    "category": "daily"
+  },
+  {
+    "en": "message",
+    "ko": "메시지",
+    "pron": "메시지",
+    "category": "daily"
+  },
+  {
+    "en": "listen",
+    "ko": "듣다",
+    "pron": "리슨",
+    "category": "daily"
+  },
+  {
+    "en": "speak",
+    "ko": "말하다",
+    "pron": "스피크",
+    "category": "daily"
+  },
+  {
+    "en": "remember",
+    "ko": "기억하다",
+    "pron": "리멤버",
+    "category": "daily"
+  },
+  {
+    "en": "forget",
+    "ko": "잊다",
+    "pron": "포겟",
+    "category": "daily"
+  },
+  {
+    "en": "i",
+    "ko": "나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "this",
+    "ko": "이것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "one",
+    "ko": "하나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "be",
+    "ko": "이다·있다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "man",
+    "ko": "남자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "head",
+    "ko": "머리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "house",
+    "ko": "집",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "food",
+    "ko": "음식",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shirt",
+    "ko": "셔츠",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "city",
+    "ko": "도시",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sun",
+    "ko": "태양",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "good",
+    "ko": "좋은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "now",
+    "ko": "지금",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "minute",
+    "ko": "분",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "book",
+    "ko": "책",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "you",
+    "ko": "너·당신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "that",
+    "ko": "저것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "two",
+    "ko": "둘",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "am",
+    "ko": "이다·있다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "woman",
+    "ko": "여자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hair",
+    "ko": "머리카락",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "apartment",
+    "ko": "아파트",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "meal",
+    "ko": "식사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "blouse",
+    "ko": "블라우스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "town",
+    "ko": "소도시",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "moon",
+    "ko": "달",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bad",
+    "ko": "나쁜",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "then",
+    "ko": "그때",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hour",
+    "ko": "시간",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "page",
+    "ko": "쪽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "he",
+    "ko": "그",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "these",
+    "ko": "이것들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "three",
+    "ko": "셋",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "is",
+    "ko": "이다·있다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "child",
+    "ko": "아이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "face",
+    "ko": "얼굴",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "room",
+    "ko": "방",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "breakfast",
+    "ko": "아침 식사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "coat",
+    "ko": "외투",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "village",
+    "ko": "마을",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "star",
+    "ko": "별",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "big",
+    "ko": "큰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soon",
+    "ko": "곧",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "day",
+    "ko": "날",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "paper",
+    "ko": "종이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "she",
+    "ko": "그녀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "those",
+    "ko": "저것들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "four",
+    "ko": "넷",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "are",
+    "ko": "이다·있다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "baby",
+    "ko": "아기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "eye",
+    "ko": "눈",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bedroom",
+    "ko": "침실",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lunch",
+    "ko": "점심 식사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "jacket",
+    "ko": "재킷",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "country",
+    "ko": "나라·시골",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sky",
+    "ko": "하늘",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "small",
+    "ko": "작은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "later",
+    "ko": "나중에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "week",
+    "ko": "주",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pen",
+    "ko": "펜",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "it",
+    "ko": "그것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "who",
+    "ko": "누구",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "five",
+    "ko": "다섯",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "was",
+    "ko": "이었다·있었다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "boy",
+    "ko": "소년",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ear",
+    "ko": "귀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bathroom",
+    "ko": "욕실",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dinner",
+    "ko": "저녁 식사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sweater",
+    "ko": "스웨터",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "street",
+    "ko": "거리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cloud",
+    "ko": "구름",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "large",
+    "ko": "큰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "already",
+    "ko": "이미",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "month",
+    "ko": "달",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pencil",
+    "ko": "연필",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "we",
+    "ko": "우리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "what",
+    "ko": "무엇",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "six",
+    "ko": "여섯",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "were",
+    "ko": "이었다·있었다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "girl",
+    "ko": "소녀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nose",
+    "ko": "코",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "kitchen",
+    "ko": "주방",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "snack",
+    "ko": "간식",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hoodie",
+    "ko": "후드티",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "road",
+    "ko": "도로",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wind",
+    "ko": "바람",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "little",
+    "ko": "작은·조금",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "yet",
+    "ko": "아직",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "year",
+    "ko": "해",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "eraser",
+    "ko": "지우개",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "they",
+    "ko": "그들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "which",
+    "ko": "어느 것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seven",
+    "ko": "일곱",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "been",
+    "ko": "be의 과거분사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "person",
+    "ko": "사람",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mouth",
+    "ko": "입",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "living room",
+    "ko": "거실",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bread",
+    "ko": "빵",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pants",
+    "ko": "바지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "avenue",
+    "ko": "큰길",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "storm",
+    "ko": "폭풍",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "long",
+    "ko": "긴",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "still",
+    "ko": "여전히",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "yesterday",
+    "ko": "어제",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "notebook",
+    "ko": "공책",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "me",
+    "ko": "나를",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "where",
+    "ko": "어디",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "eight",
+    "ko": "여덟",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "being",
+    "ko": "존재·be의 진행형",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "people",
+    "ko": "사람들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lip",
+    "ko": "입술",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dining room",
+    "ko": "식당방",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rice",
+    "ko": "쌀·밥",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "jeans",
+    "ko": "청바지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "highway",
+    "ko": "고속도로",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thunder",
+    "ko": "천둥",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "short",
+    "ko": "짧은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "just",
+    "ko": "방금·단지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tonight",
+    "ko": "오늘 밤",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lesson",
+    "ko": "수업",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "him",
+    "ko": "그를",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "when",
+    "ko": "언제",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nine",
+    "ko": "아홉",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "have",
+    "ko": "가지다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "adult",
+    "ko": "성인",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tooth",
+    "ko": "치아",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "garage",
+    "ko": "차고",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "noodle",
+    "ko": "국수",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shorts",
+    "ko": "반바지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bridge",
+    "ko": "다리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lightning",
+    "ko": "번개",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tall",
+    "ko": "키가 큰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "often",
+    "ko": "자주",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "afternoon",
+    "ko": "오후",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "homework",
+    "ko": "숙제",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "her",
+    "ko": "그녀를",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "why",
+    "ko": "왜",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ten",
+    "ko": "열",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "has",
+    "ko": "가지다·have의 삼인칭",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "teenager",
+    "ko": "십 대",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "teeth",
+    "ko": "치아들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "garden",
+    "ko": "정원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pasta",
+    "ko": "파스타",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "skirt",
+    "ko": "치마",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tunnel",
+    "ko": "터널",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fog",
+    "ko": "안개",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "high",
+    "ko": "높은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sometimes",
+    "ko": "때때로",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "evening",
+    "ko": "저녁",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "exam",
+    "ko": "시험",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "us",
+    "ko": "우리를",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "how",
+    "ko": "어떻게",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "eleven",
+    "ko": "열하나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "had",
+    "ko": "가졌다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "parent",
+    "ko": "부모",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tongue",
+    "ko": "혀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "yard",
+    "ko": "마당",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pizza",
+    "ko": "피자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "suit",
+    "ko": "정장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "corner",
+    "ko": "모퉁이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ice",
+    "ko": "얼음",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "low",
+    "ko": "낮은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "usually",
+    "ko": "보통",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "noon",
+    "ko": "정오",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "language",
+    "ko": "언어",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "them",
+    "ko": "그들을",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "whose",
+    "ko": "누구의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "twelve",
+    "ko": "열둘",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "do",
+    "ko": "하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "father",
+    "ko": "아버지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "neck",
+    "ko": "목",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "balcony",
+    "ko": "발코니",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sandwich",
+    "ko": "샌드위치",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sock",
+    "ko": "양말",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sidewalk",
+    "ko": "인도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rainbow",
+    "ko": "무지개",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wide",
+    "ko": "넓은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rarely",
+    "ko": "드물게",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "midnight",
+    "ko": "자정",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "english",
+    "ko": "영어",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "my",
+    "ko": "나의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "someone",
+    "ko": "누군가",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thirteen",
+    "ko": "열셋",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "does",
+    "ko": "하다·do의 삼인칭",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mother",
+    "ko": "어머니",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shoulder",
+    "ko": "어깨",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "roof",
+    "ko": "지붕",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hamburger",
+    "ko": "햄버거",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shoe",
+    "ko": "신발",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "crosswalk",
+    "ko": "횡단보도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "season",
+    "ko": "계절",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "narrow",
+    "ko": "좁은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "almost",
+    "ko": "거의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "weekend",
+    "ko": "주말",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "korean",
+    "ko": "한국어",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "your",
+    "ko": "너의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "anyone",
+    "ko": "누구든지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fourteen",
+    "ko": "열넷",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "did",
+    "ko": "했다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dad",
+    "ko": "아빠",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "arm",
+    "ko": "팔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wall",
+    "ko": "벽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soup",
+    "ko": "수프",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "boot",
+    "ko": "장화·부츠",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "intersection",
+    "ko": "교차로",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "spring",
+    "ko": "봄",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "deep",
+    "ko": "깊은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "enough",
+    "ko": "충분히",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "monday",
+    "ko": "월요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "word",
+    "ko": "단어",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "his",
+    "ko": "그의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "everyone",
+    "ko": "모두",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fifteen",
+    "ko": "열다섯",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "can",
+    "ko": "할 수 있다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mom",
+    "ko": "엄마",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "elbow",
+    "ko": "팔꿈치",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "floor",
+    "ko": "바닥",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "salad",
+    "ko": "샐러드",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sneaker",
+    "ko": "운동화",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "traffic",
+    "ko": "교통",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "summer",
+    "ko": "여름",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shallow",
+    "ko": "얕은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "very",
+    "ko": "매우",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tuesday",
+    "ko": "화요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sentence",
+    "ko": "문장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "our",
+    "ko": "우리의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "something",
+    "ko": "무언가",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sixteen",
+    "ko": "열여섯",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "could",
+    "ko": "할 수 있었다·할 수도 있다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "son",
+    "ko": "아들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wrist",
+    "ko": "손목",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ceiling",
+    "ko": "천장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "meat",
+    "ko": "고기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "slipper",
+    "ko": "슬리퍼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sign",
+    "ko": "표지판",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "autumn",
+    "ko": "가을",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thick",
+    "ko": "두꺼운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "too",
+    "ko": "너무·또한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wednesday",
+    "ko": "수요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "letter",
+    "ko": "글자·편지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "their",
+    "ko": "그들의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "anything",
+    "ko": "무엇이든",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seventeen",
+    "ko": "열일곱",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "may",
+    "ko": "해도 된다·일지도 모른다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "daughter",
+    "ko": "딸",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hand",
+    "ko": "손",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "door",
+    "ko": "문",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "beef",
+    "ko": "소고기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hat",
+    "ko": "모자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "map",
+    "ko": "지도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "winter",
+    "ko": "겨울",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thin",
+    "ko": "얇은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "quite",
+    "ko": "꽤",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thursday",
+    "ko": "목요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "story",
+    "ko": "이야기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mine",
+    "ko": "나의 것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "everything",
+    "ko": "모든 것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "eighteen",
+    "ko": "열여덟",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "might",
+    "ko": "일지도 모른다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "brother",
+    "ko": "형제",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "finger",
+    "ko": "손가락",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "window",
+    "ko": "창문",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pork",
+    "ko": "돼지고기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cap",
+    "ko": "챙 모자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "address",
+    "ko": "주소",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tree",
+    "ko": "나무",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "heavy",
+    "ko": "무거운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "only",
+    "ko": "오직",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "friday",
+    "ko": "금요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "news",
+    "ko": "뉴스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "yours",
+    "ko": "너의 것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nothing",
+    "ko": "아무것도 없음",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nineteen",
+    "ko": "열아홉",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "must",
+    "ko": "해야 한다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sister",
+    "ko": "자매",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thumb",
+    "ko": "엄지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stairs",
+    "ko": "계단",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "chicken",
+    "ko": "닭고기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "scarf",
+    "ko": "목도리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "place",
+    "ko": "장소",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "flower",
+    "ko": "꽃",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soft",
+    "ko": "부드러운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "also",
+    "ko": "또한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "saturday",
+    "ko": "토요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "music",
+    "ko": "음악",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ours",
+    "ko": "우리의 것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nobody",
+    "ko": "아무도 없음",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "twenty",
+    "ko": "스물",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "should",
+    "ko": "하는 것이 좋다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "husband",
+    "ko": "남편",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "chest",
+    "ko": "가슴",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "elevator",
+    "ko": "엘리베이터",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fish",
+    "ko": "물고기·생선",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "glove",
+    "ko": "장갑",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "area",
+    "ko": "지역",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grass",
+    "ko": "풀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hard",
+    "ko": "단단한·어려운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "here",
+    "ko": "여기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sunday",
+    "ko": "일요일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "movie",
+    "ko": "영화",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "theirs",
+    "ko": "그들의 것",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "each",
+    "ko": "각각",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thirty",
+    "ko": "서른",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "will",
+    "ko": "할 것이다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wife",
+    "ko": "아내",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "back",
+    "ko": "등·뒤",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hallway",
+    "ko": "복도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seafood",
+    "ko": "해산물",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "belt",
+    "ko": "허리띠",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "park",
+    "ko": "공원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "leaf",
+    "ko": "잎",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "easy",
+    "ko": "쉬운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "there",
+    "ko": "거기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "january",
+    "ko": "일월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "game",
+    "ko": "게임",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "myself",
+    "ko": "나 자신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "every",
+    "ko": "모든",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "forty",
+    "ko": "마흔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "would",
+    "ko": "하곤 했다·할 것이다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grandfather",
+    "ko": "할아버지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stomach",
+    "ko": "위·배",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "entrance",
+    "ko": "입구",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shrimp",
+    "ko": "새우",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pocket",
+    "ko": "주머니",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "beach",
+    "ko": "해변",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "root",
+    "ko": "뿌리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "simple",
+    "ko": "간단한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "inside",
+    "ko": "안쪽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "february",
+    "ko": "이월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sport",
+    "ko": "스포츠",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "yourself",
+    "ko": "너 자신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "both",
+    "ko": "둘 다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fifty",
+    "ko": "쉰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shall",
+    "ko": "할까요·할 것이다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grandmother",
+    "ko": "할머니",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "waist",
+    "ko": "허리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "gate",
+    "ko": "대문",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "crab",
+    "ko": "게",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "button",
+    "ko": "단추",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mountain",
+    "ko": "산",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "branch",
+    "ko": "가지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "difficult",
+    "ko": "어려운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "outside",
+    "ko": "바깥쪽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "march",
+    "ko": "삼월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ball",
+    "ko": "공",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "himself",
+    "ko": "그 자신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "either",
+    "ko": "둘 중 어느 하나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sixty",
+    "ko": "예순",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "get",
+    "ko": "얻다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grandparent",
+    "ko": "조부모",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "leg",
+    "ko": "다리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "key",
+    "ko": "열쇠",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "egg",
+    "ko": "달걀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "zipper",
+    "ko": "지퍼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "river",
+    "ko": "강",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seed",
+    "ko": "씨앗",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "new",
+    "ko": "새로운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "above",
+    "ko": "위에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "april",
+    "ko": "사월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "team",
+    "ko": "팀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "herself",
+    "ko": "그녀 자신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "neither",
+    "ko": "둘 다 아님",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seventy",
+    "ko": "일흔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "make",
+    "ko": "만들다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grandson",
+    "ko": "손자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "knee",
+    "ko": "무릎",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "handle",
+    "ko": "손잡이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "milk",
+    "ko": "우유",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "uniform",
+    "ko": "유니폼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lake",
+    "ko": "호수",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "earth",
+    "ko": "지구·흙",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "old",
+    "ko": "오래된·나이 든",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "below",
+    "ko": "아래에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hobby",
+    "ko": "취미",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "itself",
+    "ko": "그것 자체",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "another",
+    "ko": "또 다른 하나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "eighty",
+    "ko": "여든",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "take",
+    "ko": "가져가다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "granddaughter",
+    "ko": "손녀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ankle",
+    "ko": "발목",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bell",
+    "ko": "종",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cheese",
+    "ko": "치즈",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "underwear",
+    "ko": "속옷",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "forest",
+    "ko": "숲",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soil",
+    "ko": "토양",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "young",
+    "ko": "어린",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "near",
+    "ko": "가까이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "june",
+    "ko": "유월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dream",
+    "ko": "꿈",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ourselves",
+    "ko": "우리 자신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "other",
+    "ko": "다른",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ninety",
+    "ko": "아흔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "give",
+    "ko": "주다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "uncle",
+    "ko": "삼촌·외삼촌",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "foot",
+    "ko": "발",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bed",
+    "ko": "침대",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "butter",
+    "ko": "버터",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pajamas",
+    "ko": "잠옷",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "island",
+    "ko": "섬",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sand",
+    "ko": "모래",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "early",
+    "ko": "이른",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "far",
+    "ko": "멀리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "july",
+    "ko": "칠월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "idea",
+    "ko": "생각",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "themselves",
+    "ko": "그들 자신",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "such",
+    "ko": "그러한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hundred",
+    "ko": "백",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "put",
+    "ko": "놓다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "aunt",
+    "ko": "이모·고모",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "feet",
+    "ko": "발들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pillow",
+    "ko": "베개",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "yogurt",
+    "ko": "요구르트",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "umbrella",
+    "ko": "우산",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sea",
+    "ko": "바다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rock",
+    "ko": "바위",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "late",
+    "ko": "늦은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "away",
+    "ko": "떨어져",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "august",
+    "ko": "팔월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "reason",
+    "ko": "이유",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "same",
+    "ko": "같은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "thousand",
+    "ko": "천",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "let",
+    "ko": "하게 하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cousin",
+    "ko": "사촌",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "toe",
+    "ko": "발가락",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "blanket",
+    "ko": "담요",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cream",
+    "ko": "크림",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bag",
+    "ko": "가방",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ocean",
+    "ko": "대양",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stone",
+    "ko": "돌",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fast",
+    "ko": "빠른",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "around",
+    "ko": "주위에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "september",
+    "ko": "구월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "chance",
+    "ko": "기회",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "million",
+    "ko": "백만",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "keep",
+    "ko": "유지하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nephew",
+    "ko": "조카아들",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "skin",
+    "ko": "피부",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sheet",
+    "ko": "침대 시트",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fruit",
+    "ko": "과일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "backpack",
+    "ko": "배낭",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "desert",
+    "ko": "사막",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "air",
+    "ko": "공기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "slow",
+    "ko": "느린",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "between",
+    "ko": "사이에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "october",
+    "ko": "시월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "choice",
+    "ko": "선택",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "first",
+    "ko": "첫 번째",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "leave",
+    "ko": "떠나다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "niece",
+    "ko": "조카딸",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bone",
+    "ko": "뼈",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mattress",
+    "ko": "매트리스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "apple",
+    "ko": "사과",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wallet",
+    "ko": "지갑",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "field",
+    "ko": "들판",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fire",
+    "ko": "불",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "quick",
+    "ko": "신속한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "behind",
+    "ko": "뒤에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "november",
+    "ko": "십일월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "life",
+    "ko": "삶",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "second",
+    "ko": "두 번째·초",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bring",
+    "ko": "가져오다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "relative",
+    "ko": "친척",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "muscle",
+    "ko": "근육",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sofa",
+    "ko": "소파",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "banana",
+    "ko": "바나나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "purse",
+    "ko": "핸드백",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "farm",
+    "ko": "농장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "smoke",
+    "ko": "연기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hot",
+    "ko": "뜨거운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "before",
+    "ko": "전에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "december",
+    "ko": "십이월",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "name",
+    "ko": "이름",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "third",
+    "ko": "세 번째",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "send",
+    "ko": "보내다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "neighbor",
+    "ko": "이웃",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "heart",
+    "ko": "심장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "chair",
+    "ko": "의자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "orange",
+    "ko": "오렌지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ring",
+    "ko": "반지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "zoo",
+    "ko": "동물원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "animal",
+    "ko": "동물",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "warm",
+    "ko": "따뜻한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "after",
+    "ko": "후에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "age",
+    "ko": "나이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fourth",
+    "ko": "네 번째",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "find",
+    "ko": "찾다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "guest",
+    "ko": "손님",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "brain",
+    "ko": "뇌",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "table",
+    "ko": "탁자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grape",
+    "ko": "포도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "necklace",
+    "ko": "목걸이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "museum",
+    "ko": "박물관",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dog",
+    "ko": "개",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cool",
+    "ko": "시원한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "during",
+    "ko": "동안",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "number",
+    "ko": "숫자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fifth",
+    "ko": "다섯 번째",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lose",
+    "ko": "잃다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stranger",
+    "ko": "낯선 사람",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "blood",
+    "ko": "피",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "desk",
+    "ko": "책상",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "strawberry",
+    "ko": "딸기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "earring",
+    "ko": "귀걸이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "library",
+    "ko": "도서관",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cat",
+    "ko": "고양이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wet",
+    "ko": "젖은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "until",
+    "ko": "까지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "color",
+    "ko": "색",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "half",
+    "ko": "절반",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "use",
+    "ko": "사용하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "couple",
+    "ko": "부부·한 쌍",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "breath",
+    "ko": "숨",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lamp",
+    "ko": "램프",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lemon",
+    "ko": "레몬",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bracelet",
+    "ko": "팔찌",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "theater",
+    "ko": "극장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bird",
+    "ko": "새",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dry",
+    "ko": "마른",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "while",
+    "ko": "하는 동안",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shape",
+    "ko": "모양",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "quarter",
+    "ko": "사분의 일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "try",
+    "ko": "시도하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "partner",
+    "ko": "동반자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "voice",
+    "ko": "목소리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "light",
+    "ko": "빛·조명",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "peach",
+    "ko": "복숭아",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "glasses",
+    "ko": "안경",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cinema",
+    "ko": "영화관",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "horse",
+    "ko": "말",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dirty",
+    "ko": "더러운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "because",
+    "ko": "왜냐하면",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "space",
+    "ko": "공간",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "double",
+    "ko": "두 배",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ask",
+    "ko": "묻다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "classmate",
+    "ko": "급우",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "body",
+    "ko": "몸",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mirror",
+    "ko": "거울",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pear",
+    "ko": "배",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sunglasses",
+    "ko": "선글라스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hotel",
+    "ko": "호텔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cow",
+    "ko": "소",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "full",
+    "ko": "가득 찬",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "although",
+    "ko": "비록 일지라도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "world",
+    "ko": "세계",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "single",
+    "ko": "하나의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tell",
+    "ko": "말해 주다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "student",
+    "ko": "학생",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "health",
+    "ko": "건강",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "carpet",
+    "ko": "카펫",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "watermelon",
+    "ko": "수박",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "size",
+    "ko": "크기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "store",
+    "ko": "가게",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pig",
+    "ko": "돼지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "free",
+    "ko": "무료의·자유로운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "however",
+    "ko": "그러나",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "peace",
+    "ko": "평화",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "zero",
+    "ko": "영",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "say",
+    "ko": "말하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "teacher",
+    "ko": "교사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pain",
+    "ko": "통증",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "curtain",
+    "ko": "커튼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pineapple",
+    "ko": "파인애플",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cotton",
+    "ko": "면",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "market",
+    "ko": "시장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sheep",
+    "ko": "양",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "busy",
+    "ko": "바쁜",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "perhaps",
+    "ko": "아마",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "luck",
+    "ko": "행운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "talk",
+    "ko": "이야기하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "doctor",
+    "ko": "의사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fever",
+    "ko": "열",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "closet",
+    "ko": "옷장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cherry",
+    "ko": "체리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wool",
+    "ko": "양모",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "supermarket",
+    "ko": "슈퍼마켓",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "goat",
+    "ko": "염소",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "quiet",
+    "ko": "조용한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "instead",
+    "ko": "대신에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "call",
+    "ko": "전화하다·부르다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nurse",
+    "ko": "간호사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cough",
+    "ko": "기침",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "drawer",
+    "ko": "서랍",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mango",
+    "ko": "망고",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "leather",
+    "ko": "가죽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mall",
+    "ko": "쇼핑몰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rabbit",
+    "ko": "토끼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "loud",
+    "ko": "시끄러운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "especially",
+    "ko": "특히",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "read",
+    "ko": "읽다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dentist",
+    "ko": "치과 의사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cold",
+    "ko": "추위·감기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cabinet",
+    "ko": "수납장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "vegetable",
+    "ko": "채소",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fabric",
+    "ko": "천",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bakery",
+    "ko": "빵집",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "duck",
+    "ko": "오리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bright",
+    "ko": "밝은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "probably",
+    "ko": "아마도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "write",
+    "ko": "쓰다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "patient",
+    "ko": "환자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "headache",
+    "ko": "두통",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bookshelf",
+    "ko": "책장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "potato",
+    "ko": "감자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pharmacy",
+    "ko": "약국",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lion",
+    "ko": "사자",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dark",
+    "ko": "어두운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "certainly",
+    "ko": "확실히",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "learn",
+    "ko": "배우다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "driver",
+    "ko": "운전기사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "medicine",
+    "ko": "약",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "clock",
+    "ko": "시계",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tomato",
+    "ko": "토마토",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bank",
+    "ko": "은행",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tiger",
+    "ko": "호랑이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rich",
+    "ko": "부유한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "actually",
+    "ko": "실제로",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "study",
+    "ko": "공부하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "farmer",
+    "ko": "농부",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pill",
+    "ko": "알약",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "picture",
+    "ko": "사진·그림",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "onion",
+    "ko": "양파",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "church",
+    "ko": "교회",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bear",
+    "ko": "곰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "poor",
+    "ko": "가난한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "finally",
+    "ko": "마침내",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "teach",
+    "ko": "가르치다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "artist",
+    "ko": "예술가",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bandage",
+    "ko": "붕대",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "television",
+    "ko": "텔레비전",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "carrot",
+    "ko": "당근",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "temple",
+    "ko": "사원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "elephant",
+    "ko": "코끼리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cheap",
+    "ko": "저렴한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "recently",
+    "ko": "최근에",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "understand",
+    "ko": "이해하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "actor",
+    "ko": "배우",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "appointment",
+    "ko": "예약",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "radio",
+    "ko": "라디오",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cabbage",
+    "ko": "양배추",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "post office",
+    "ko": "우체국",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "monkey",
+    "ko": "원숭이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "expensive",
+    "ko": "비싼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "immediately",
+    "ko": "즉시",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mean",
+    "ko": "의미하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "singer",
+    "ko": "가수",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "allergy",
+    "ko": "알레르기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "computer",
+    "ko": "컴퓨터",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "lettuce",
+    "ko": "상추",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bus stop",
+    "ko": "버스 정류장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "snake",
+    "ko": "뱀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "safe",
+    "ko": "안전한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "slowly",
+    "ko": "천천히",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "believe",
+    "ko": "믿다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "writer",
+    "ko": "작가",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "illness",
+    "ko": "질병",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "laptop",
+    "ko": "노트북",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cucumber",
+    "ko": "오이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "parking lot",
+    "ko": "주차장",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "frog",
+    "ko": "개구리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dangerous",
+    "ko": "위험한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "quickly",
+    "ko": "빠르게",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "feel",
+    "ko": "느끼다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "police",
+    "ko": "경찰",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "injury",
+    "ko": "부상",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "screen",
+    "ko": "화면",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pepper",
+    "ko": "고추·후추",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "gas station",
+    "ko": "주유소",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "turtle",
+    "ko": "거북",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "strong",
+    "ko": "강한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "carefully",
+    "ko": "조심해서",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hope",
+    "ko": "바라다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "firefighter",
+    "ko": "소방관",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "exercise",
+    "ko": "운동",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "keyboard",
+    "ko": "키보드",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "garlic",
+    "ko": "마늘",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "car",
+    "ko": "자동차",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "insect",
+    "ko": "곤충",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "weak",
+    "ko": "약한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wish",
+    "ko": "소망하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soldier",
+    "ko": "군인",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "diet",
+    "ko": "식단",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mouse",
+    "ko": "쥐·마우스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mushroom",
+    "ko": "버섯",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bus",
+    "ko": "버스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "butterfly",
+    "ko": "나비",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "healthy",
+    "ko": "건강한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "decide",
+    "ko": "결정하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "chef",
+    "ko": "요리사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "energy",
+    "ko": "에너지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "printer",
+    "ko": "프린터",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "broccoli",
+    "ko": "브로콜리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "train",
+    "ko": "기차",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bee",
+    "ko": "벌",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sick",
+    "ko": "아픈",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "choose",
+    "ko": "선택하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "waiter",
+    "ko": "남자 종업원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "weight",
+    "ko": "무게",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "camera",
+    "ko": "카메라",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "spinach",
+    "ko": "시금치",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "subway",
+    "ko": "지하철",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ant",
+    "ko": "개미",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "angry",
+    "ko": "화난",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wait",
+    "ko": "기다리다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "waitress",
+    "ko": "여자 종업원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "height",
+    "ko": "키·높이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "speaker",
+    "ko": "스피커",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "corn",
+    "ko": "옥수수",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "taxi",
+    "ko": "택시",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "spider",
+    "ko": "거미",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sad",
+    "ko": "슬픈",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stay",
+    "ko": "머무르다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cashier",
+    "ko": "계산원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "temperature",
+    "ko": "온도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "charger",
+    "ko": "충전기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bean",
+    "ko": "콩",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bicycle",
+    "ko": "자전거",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "mosquito",
+    "ko": "모기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "afraid",
+    "ko": "두려운",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "live",
+    "ko": "살다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "clerk",
+    "ko": "점원",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "battery",
+    "ko": "배터리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pea",
+    "ko": "완두콩",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "motorcycle",
+    "ko": "오토바이",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nervous",
+    "ko": "긴장한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "die",
+    "ko": "죽다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hairdresser",
+    "ko": "미용사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "remote",
+    "ko": "리모컨",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "nut",
+    "ko": "견과류",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "truck",
+    "ko": "트럭",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "calm",
+    "ko": "차분한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "born",
+    "ko": "태어난",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pilot",
+    "ko": "조종사",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "refrigerator",
+    "ko": "냉장고",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "peanut",
+    "ko": "땅콩",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "boat",
+    "ko": "배",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "kind",
+    "ko": "친절한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "grow",
+    "ko": "자라다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "freezer",
+    "ko": "냉동고",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "almond",
+    "ko": "아몬드",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ship",
+    "ko": "선박",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "friendly",
+    "ko": "다정한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "become",
+    "ko": "되다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "oven",
+    "ko": "오븐",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sugar",
+    "ko": "설탕",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "airplane",
+    "ko": "비행기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "polite",
+    "ko": "예의 바른",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seem",
+    "ko": "처럼 보이다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stove",
+    "ko": "레인지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "salt",
+    "ko": "소금",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ticket",
+    "ko": "표",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "rude",
+    "ko": "무례한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "look",
+    "ko": "보다·보이다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "microwave",
+    "ko": "전자레인지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "oil",
+    "ko": "기름",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "passport",
+    "ko": "여권",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "honest",
+    "ko": "정직한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "watch",
+    "ko": "지켜보다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dishwasher",
+    "ko": "식기세척기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "vinegar",
+    "ko": "식초",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "luggage",
+    "ko": "짐",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "brave",
+    "ko": "용감한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hear",
+    "ko": "듣다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "washing machine",
+    "ko": "세탁기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sauce",
+    "ko": "소스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "suitcase",
+    "ko": "여행 가방",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "careful",
+    "ko": "조심하는",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "smell",
+    "ko": "냄새 맡다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "dryer",
+    "ko": "건조기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "honey",
+    "ko": "꿀",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "seat",
+    "ko": "좌석",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "clever",
+    "ko": "영리한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "taste",
+    "ko": "맛보다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "vacuum",
+    "ko": "진공청소기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "jam",
+    "ko": "잼",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wheel",
+    "ko": "바퀴",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "smart",
+    "ko": "똑똑한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "touch",
+    "ko": "만지다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fan",
+    "ko": "선풍기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "chocolate",
+    "ko": "초콜릿",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tire",
+    "ko": "타이어",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "funny",
+    "ko": "웃기는",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hold",
+    "ko": "잡다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "heater",
+    "ko": "난방기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "candy",
+    "ko": "사탕",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "engine",
+    "ko": "엔진",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "serious",
+    "ko": "진지한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "catch",
+    "ko": "잡다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "air conditioner",
+    "ko": "에어컨",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cookie",
+    "ko": "쿠키",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "fuel",
+    "ko": "연료",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ready",
+    "ko": "준비된",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "throw",
+    "ko": "던지다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "toilet",
+    "ko": "변기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cake",
+    "ko": "케이크",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "speed",
+    "ko": "속도",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "sure",
+    "ko": "확신하는",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "hit",
+    "ko": "치다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shower",
+    "ko": "샤워",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "ice cream",
+    "ko": "아이스크림",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "distance",
+    "ko": "거리",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "true",
+    "ko": "참인",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "kick",
+    "ko": "차다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bathtub",
+    "ko": "욕조",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tea",
+    "ko": "차",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "direction",
+    "ko": "방향",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "false",
+    "ko": "거짓인",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "pull",
+    "ko": "당기다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "towel",
+    "ko": "수건",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "juice",
+    "ko": "주스",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "route",
+    "ko": "경로",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "right",
+    "ko": "맞는·오른쪽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "push",
+    "ko": "밀다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soap",
+    "ko": "비누",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "soda",
+    "ko": "탄산음료",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "trip",
+    "ko": "여행",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wrong",
+    "ko": "틀린",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "turn",
+    "ko": "돌리다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "shampoo",
+    "ko": "샴푸",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "beer",
+    "ko": "맥주",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "journey",
+    "ko": "여정",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "left",
+    "ko": "왼쪽",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "open",
+    "ko": "열다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "toothbrush",
+    "ko": "칫솔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "wine",
+    "ko": "와인",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "vacation",
+    "ko": "휴가",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "straight",
+    "ko": "곧은",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "close",
+    "ko": "닫다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "toothpaste",
+    "ko": "치약",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "bottle",
+    "ko": "병",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "holiday",
+    "ko": "공휴일",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "round",
+    "ko": "둥근",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "start",
+    "ko": "시작하다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "tissue",
+    "ko": "화장지",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "cup",
+    "ko": "컵",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "flight",
+    "ko": "항공편",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "flat",
+    "ko": "평평한",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "stop",
+    "ko": "멈추다",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "trash",
+    "ko": "쓰레기",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "glass",
+    "ko": "유리·잔",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "boarding",
+    "ko": "탑승",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "square",
+    "ko": "정사각형의",
+    "pron": "",
+    "category": "daily"
+  },
+  {
+    "en": "company",
+    "ko": "회사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "business",
+    "ko": "사업",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "office",
+    "ko": "사무실",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "department",
+    "ko": "부서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "division",
+    "ko": "사업부",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "organization",
+    "ko": "조직",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "corporation",
+    "ko": "법인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "enterprise",
+    "ko": "기업",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "headquarters",
+    "ko": "본사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "subsidiary",
+    "ko": "자회사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "affiliate",
+    "ko": "계열사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "employee",
+    "ko": "직원",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "employer",
+    "ko": "고용주",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "staff",
+    "ko": "직원 전체",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "worker",
+    "ko": "근로자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "manager",
+    "ko": "관리자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "supervisor",
+    "ko": "감독자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "director",
+    "ko": "임원·책임자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "executive",
+    "ko": "경영진",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "president",
+    "ko": "사장",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "colleague",
+    "ko": "동료",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "coworker",
+    "ko": "직장 동료",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "assistant",
+    "ko": "보조 담당자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "secretary",
+    "ko": "비서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "receptionist",
+    "ko": "접수 담당자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "accountant",
+    "ko": "회계사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "consultant",
+    "ko": "자문가",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "contractor",
+    "ko": "계약업체",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "vendor",
+    "ko": "공급업체",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "supplier",
+    "ko": "납품업체",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "customer",
+    "ko": "고객",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "client",
+    "ko": "의뢰인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "consumer",
+    "ko": "소비자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "visitor",
+    "ko": "방문객",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "applicant",
+    "ko": "지원자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "candidate",
+    "ko": "후보자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "trainee",
+    "ko": "훈련생",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "intern",
+    "ko": "인턴",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "recruiter",
+    "ko": "채용 담당자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "stakeholder",
+    "ko": "이해관계자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "meeting",
+    "ko": "회의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "conference",
+    "ko": "대규모 회의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "seminar",
+    "ko": "세미나",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "workshop",
+    "ko": "실습형 교육",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "presentation",
+    "ko": "발표",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "agenda",
+    "ko": "의제",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "minutes",
+    "ko": "회의록",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "discussion",
+    "ko": "논의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "opinion",
+    "ko": "의견",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "proposal",
+    "ko": "제안",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "recommendation",
+    "ko": "권고",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "suggestion",
+    "ko": "제안 사항",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "decision",
+    "ko": "결정",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "approval",
+    "ko": "승인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "permission",
+    "ko": "허가",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "request",
+    "ko": "요청",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "response",
+    "ko": "응답",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reply",
+    "ko": "답장",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "feedback",
+    "ko": "피드백",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "comment",
+    "ko": "의견·논평",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "briefing",
+    "ko": "업무 보고",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "announcement",
+    "ko": "공지",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "noticeboard",
+    "ko": "게시판",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "memo",
+    "ko": "메모",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "email",
+    "ko": "이메일",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "attachment",
+    "ko": "첨부파일",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "subject",
+    "ko": "제목·주제",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "recipient",
+    "ko": "수신자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "sender",
+    "ko": "발신자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "signature",
+    "ko": "서명",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "contact",
+    "ko": "연락처",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "extension",
+    "ko": "내선번호",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "voicemail",
+    "ko": "음성메시지",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "conversation",
+    "ko": "대화",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "communication",
+    "ko": "의사소통",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "negotiation",
+    "ko": "협상",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "agreement",
+    "ko": "합의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "disagreement",
+    "ko": "의견 차이",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "consensus",
+    "ko": "의견 일치",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "clarification",
+    "ko": "명확한 설명",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "project",
+    "ko": "프로젝트",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "task",
+    "ko": "작업",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "assignment",
+    "ko": "배정 업무",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "duty",
+    "ko": "직무",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "responsibility",
+    "ko": "책임",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "role",
+    "ko": "역할",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "goal",
+    "ko": "목표",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "objective",
+    "ko": "달성 목표",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "target",
+    "ko": "목표치",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "strategy",
+    "ko": "전략",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "priority",
+    "ko": "우선순위",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "deadline",
+    "ko": "마감일",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "schedule",
+    "ko": "일정",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "timetable",
+    "ko": "시간표",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "calendar",
+    "ko": "달력",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "milestone",
+    "ko": "주요 단계",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "progress",
+    "ko": "진척",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "status",
+    "ko": "상태",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "completion",
+    "ko": "완료",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "delay",
+    "ko": "지연",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "postponement",
+    "ko": "연기",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "cancellation",
+    "ko": "취소",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "rescheduling",
+    "ko": "일정 변경",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "duration",
+    "ko": "기간",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "period",
+    "ko": "기간·주기",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "phase",
+    "ko": "단계",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "stage",
+    "ko": "진행 단계",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "scope",
+    "ko": "범위",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "requirement",
+    "ko": "요구사항",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "specification",
+    "ko": "사양",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "deliverable",
+    "ko": "납품 성과물",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "outcome",
+    "ko": "결과",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "result",
+    "ko": "결과값",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "achievement",
+    "ko": "성과",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "performance",
+    "ko": "업무 성과",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "productivity",
+    "ko": "생산성",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "efficiency",
+    "ko": "효율성",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "effectiveness",
+    "ko": "효과성",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "improvement",
+    "ko": "개선",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "innovation",
+    "ko": "혁신",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "document",
+    "ko": "문서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "file",
+    "ko": "파일",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "folder",
+    "ko": "폴더",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "record",
+    "ko": "기록",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "report",
+    "ko": "보고서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "summary",
+    "ko": "요약",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "overview",
+    "ko": "개요",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "detail",
+    "ko": "세부사항",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "description",
+    "ko": "설명",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "instruction",
+    "ko": "지시·설명서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "procedure",
+    "ko": "절차",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "policy",
+    "ko": "방침",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "guideline",
+    "ko": "지침",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "standard",
+    "ko": "기준",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "rule",
+    "ko": "규칙",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "regulation",
+    "ko": "규정",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "form",
+    "ko": "양식",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "template",
+    "ko": "서식",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "version",
+    "ko": "버전",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "revision",
+    "ko": "개정",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "draft",
+    "ko": "초안",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "copy",
+    "ko": "사본",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "original",
+    "ko": "원본",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "archive",
+    "ko": "보관 자료",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "database",
+    "ko": "데이터베이스",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "data",
+    "ko": "데이터",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "information",
+    "ko": "정보",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "spreadsheet",
+    "ko": "스프레드시트",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "worksheet",
+    "ko": "워크시트",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "column",
+    "ko": "열",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "row",
+    "ko": "행",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "cell",
+    "ko": "셀",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "chart",
+    "ko": "도표",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "graph",
+    "ko": "그래프",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "diagram",
+    "ko": "개략도",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "figure",
+    "ko": "수치·그림",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "formula",
+    "ko": "수식",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "calculation",
+    "ko": "계산",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "analysis",
+    "ko": "분석",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "evidence",
+    "ko": "근거",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "budget",
+    "ko": "예산",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "expense",
+    "ko": "지출",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "revenue",
+    "ko": "수익",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "income",
+    "ko": "소득",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "profit",
+    "ko": "이익",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "loss",
+    "ko": "손실",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "balance",
+    "ko": "잔액",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "account",
+    "ko": "계정·계좌",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "payment",
+    "ko": "결제",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "invoice",
+    "ko": "송장",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "receipt",
+    "ko": "영수증",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "quotation",
+    "ko": "견적서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "estimate",
+    "ko": "추정치",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "price",
+    "ko": "가격",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "discount",
+    "ko": "할인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "tax",
+    "ko": "세금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "fee",
+    "ko": "수수료",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "charge",
+    "ko": "청구금액",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "refund",
+    "ko": "환불",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "deposit",
+    "ko": "예치금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "withdrawal",
+    "ko": "출금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "transfer",
+    "ko": "이체",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "transaction",
+    "ko": "거래",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "purchase",
+    "ko": "구매",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "sale",
+    "ko": "판매",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "subscription",
+    "ko": "구독",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "membership",
+    "ko": "회원 자격",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "renewal",
+    "ko": "갱신",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "installment",
+    "ko": "분할 납부금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "interest",
+    "ko": "이자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "loan",
+    "ko": "대출",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "debt",
+    "ko": "부채",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "credit",
+    "ko": "신용",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "currency",
+    "ko": "통화",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "exchange",
+    "ko": "교환·환전",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "fund",
+    "ko": "자금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "investment",
+    "ko": "투자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "asset",
+    "ko": "자산",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "liability",
+    "ko": "부채·법적 책임",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "capital",
+    "ko": "자본",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "contract",
+    "ko": "계약",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "clause",
+    "ko": "조항",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "term",
+    "ko": "조건·기간",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "condition",
+    "ko": "조건",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "obligation",
+    "ko": "의무",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "commitment",
+    "ko": "약속·책무",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "warranty",
+    "ko": "보증",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "guarantee",
+    "ko": "보장",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "insurance",
+    "ko": "보험",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "coverage",
+    "ko": "보장 범위",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "claim",
+    "ko": "청구",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "dispute",
+    "ko": "분쟁",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "settlement",
+    "ko": "합의 해결",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "compliance",
+    "ko": "규정 준수",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "audit",
+    "ko": "감사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "authorization",
+    "ko": "권한 부여",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "confidentiality",
+    "ko": "기밀 유지",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "privacy",
+    "ko": "개인정보 보호",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "consent",
+    "ko": "동의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "disclosure",
+    "ko": "공개",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "ownership",
+    "ko": "소유권",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "copyright",
+    "ko": "저작권",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "patent",
+    "ko": "특허",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "trademark",
+    "ko": "상표",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "license",
+    "ko": "허가·이용권",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "certificate",
+    "ko": "증명서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "registration",
+    "ko": "등록",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "application",
+    "ko": "신청",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "verification",
+    "ko": "검증",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "validation",
+    "ko": "유효성 확인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "confirmation",
+    "ko": "확인 통보",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "acknowledgment",
+    "ko": "수령 확인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "exception",
+    "ko": "예외",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "exemption",
+    "ko": "면제",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "restriction",
+    "ko": "제한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "limitation",
+    "ko": "한계",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "violation",
+    "ko": "위반",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "penalty",
+    "ko": "벌금·불이익",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "appeal",
+    "ko": "이의신청",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "mediation",
+    "ko": "중재",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "employment",
+    "ko": "고용",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "recruitment",
+    "ko": "채용",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "interview",
+    "ko": "면접",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "resume",
+    "ko": "이력서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "qualification",
+    "ko": "자격",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "experience",
+    "ko": "경험",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "skill",
+    "ko": "기술·능력",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "ability",
+    "ko": "능력",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "training",
+    "ko": "교육훈련",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "orientation",
+    "ko": "신입 안내",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "onboarding",
+    "ko": "입사 적응 과정",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "promotion",
+    "ko": "승진",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "salary",
+    "ko": "급여",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "wage",
+    "ko": "임금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "payroll",
+    "ko": "급여 지급 업무",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "overtime",
+    "ko": "초과근무",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "attendance",
+    "ko": "근태",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "absence",
+    "ko": "결근",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "leave request",
+    "ko": "휴가 신청",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "annual leave",
+    "ko": "연차휴가",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "sick leave",
+    "ko": "병가",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "shift",
+    "ko": "근무조",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "roster",
+    "ko": "근무 명단",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "benefit",
+    "ko": "복리후생",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "pension",
+    "ko": "연금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "retirement",
+    "ko": "퇴직",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "resignation",
+    "ko": "사직",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "dismissal",
+    "ko": "해고",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "evaluation",
+    "ko": "평가",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "appraisal",
+    "ko": "업무 평가",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "incentive",
+    "ko": "장려금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "bonus",
+    "ko": "상여금",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "allowance",
+    "ko": "수당",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reimbursement",
+    "ko": "비용 환급",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "probation",
+    "ko": "수습기간",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "vacancy",
+    "ko": "빈 일자리",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "workload",
+    "ko": "업무량",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "teamwork",
+    "ko": "협업",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "leadership",
+    "ko": "리더십",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "mentoring",
+    "ko": "지도·조언",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "warehouse",
+    "ko": "창고",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "stock",
+    "ko": "재고",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "stockroom",
+    "ko": "재고 보관실",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "storage",
+    "ko": "보관",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "location",
+    "ko": "위치",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "bin location",
+    "ko": "보관 칸 위치",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "item",
+    "ko": "품목",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "product",
+    "ko": "제품",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "goods",
+    "ko": "물품",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "material",
+    "ko": "자재",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "package",
+    "ko": "포장물",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "parcel",
+    "ko": "소포",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "carton",
+    "ko": "상자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "crate",
+    "ko": "운반용 나무상자",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "pallet",
+    "ko": "팔레트",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "shipment",
+    "ko": "선적 화물",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "delivery",
+    "ko": "배송",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "dispatch",
+    "ko": "발송",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "freight",
+    "ko": "화물 운송",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "carrier",
+    "ko": "운송업체",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "logistics",
+    "ko": "물류",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "distribution",
+    "ko": "유통",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "procurement",
+    "ko": "조달",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "sourcing",
+    "ko": "공급처 발굴",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "availability",
+    "ko": "가용 여부",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "shortage",
+    "ko": "부족",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "surplus",
+    "ko": "잉여",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "backorder",
+    "ko": "재고 부족 이월 주문",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reorder",
+    "ko": "재주문",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reservation",
+    "ko": "예약·재고 확보",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "allocation",
+    "ko": "배정",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "consumption",
+    "ko": "소모",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "replenishment",
+    "ko": "재고 보충",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "stocktaking",
+    "ko": "재고 실사",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "traceability",
+    "ko": "추적 가능성",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "serial number",
+    "ko": "일련번호",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "part number",
+    "ko": "품번",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "purchase order",
+    "ko": "구매 발주서",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "lead time",
+    "ko": "발주부터 입고까지의 기간",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "delivery date",
+    "ko": "납기일",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "approve",
+    "ko": "승인하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reject",
+    "ko": "거절하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "submit",
+    "ko": "제출하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "review",
+    "ko": "검토하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "revise",
+    "ko": "개정하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "update",
+    "ko": "갱신하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "confirm",
+    "ko": "확인하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "notify",
+    "ko": "알리다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "inform",
+    "ko": "정보를 전하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "remind",
+    "ko": "상기시키다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "arrange",
+    "ko": "준비·배치하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "organize",
+    "ko": "조직하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "coordinate",
+    "ko": "조율하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "delegate",
+    "ko": "위임하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "assign",
+    "ko": "배정하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "allocate",
+    "ko": "할당하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "prioritize",
+    "ko": "우선순위를 정하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "monitor",
+    "ko": "지속 관찰하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "track",
+    "ko": "추적하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "evaluate",
+    "ko": "평가하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "assess",
+    "ko": "평정하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "analyze",
+    "ko": "분석하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "investigate",
+    "ko": "조사하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "resolve",
+    "ko": "해결하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "negotiate",
+    "ko": "협상하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "propose",
+    "ko": "제안하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "recommend",
+    "ko": "권고하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "implement",
+    "ko": "실행하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "achieve",
+    "ko": "달성하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "complete",
+    "ko": "완료하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "postpone",
+    "ko": "연기하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "cancel",
+    "ko": "취소하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "attend",
+    "ko": "참석하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "participate",
+    "ko": "참여하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "collaborate",
+    "ko": "협력하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "contribute",
+    "ko": "기여하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "assist",
+    "ko": "보조하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "authorize",
+    "ko": "인가하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "renew",
+    "ko": "갱신하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "register",
+    "ko": "등록하다",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "urgent",
+    "ko": "긴급한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "important",
+    "ko": "중요한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "necessary",
+    "ko": "필요한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "available",
+    "ko": "이용 가능한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "unavailable",
+    "ko": "이용 불가능한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "pending",
+    "ko": "보류 중인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "approved",
+    "ko": "승인된",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "rejected",
+    "ko": "거절된",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "completed",
+    "ko": "완료된",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "ongoing",
+    "ko": "진행 중인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "overdue",
+    "ko": "기한이 지난",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "optional",
+    "ko": "선택적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "mandatory",
+    "ko": "의무적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "confidential",
+    "ko": "기밀의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "internal",
+    "ko": "내부의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "external",
+    "ko": "외부의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "official",
+    "ko": "공식적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "temporary",
+    "ko": "임시의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "permanent",
+    "ko": "영구적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "regular",
+    "ko": "정기적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "annual",
+    "ko": "연간의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "monthly",
+    "ko": "매월의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "weekly",
+    "ko": "매주의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "daily",
+    "ko": "매일의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "quarterly",
+    "ko": "분기별의",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "accurate",
+    "ko": "정확한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reliable",
+    "ko": "신뢰할 수 있는",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "consistent",
+    "ko": "일관된",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "flexible",
+    "ko": "유연한",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "efficient",
+    "ko": "효율적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "effective",
+    "ko": "효과적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "productive",
+    "ko": "생산적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "profitable",
+    "ko": "수익성 있는",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "competitive",
+    "ko": "경쟁력 있는",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "reasonable",
+    "ko": "합리적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "affordable",
+    "ko": "감당할 수 있는",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "professional",
+    "ko": "전문적인",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "responsible",
+    "ko": "책임감 있는",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "accountable",
+    "ko": "설명 책임이 있는",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "qualified",
+    "ko": "자격을 갖춘",
+    "pron": "",
+    "category": "business"
+  },
+  {
+    "en": "sensor",
+    "ko": "센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "relay",
+    "ko": "릴레이",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "motor",
+    "ko": "모터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "press",
+    "ko": "프레스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "robot",
+    "ko": "로봇",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "conveyor",
+    "ko": "컨베이어",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "valve",
+    "ko": "밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "cylinder",
+    "ko": "실린더",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pressure",
+    "ko": "압력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "voltage",
+    "ko": "전압",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "current",
+    "ko": "전류",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "wiring",
+    "ko": "배선",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "connector",
+    "ko": "커넥터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "brake",
+    "ko": "브레이크",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "clamp",
+    "ko": "클램프",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bolt",
+    "ko": "볼트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bearing",
+    "ko": "베어링",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "lubrication",
+    "ko": "윤활",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "inspection",
+    "ko": "점검",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "maintenance",
+    "ko": "보전·정비",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "replace",
+    "ko": "교체하다",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "repair",
+    "ko": "수리하다",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "fault",
+    "ko": "고장",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "alarm",
+    "ko": "경보",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "reset",
+    "ko": "리셋",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "interlock",
+    "ko": "인터록",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "guard",
+    "ko": "방호장치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shutdown",
+    "ko": "정지",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "inventory",
+    "ko": "재고",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "quantity",
+    "ko": "수량",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shelf",
+    "ko": "선반",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "barcode",
+    "ko": "바코드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "spare part",
+    "ko": "예비 부품",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "emergency stop",
+    "ko": "비상정지",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "machine",
+    "ko": "기계",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "hydraulic",
+    "ko": "유압의",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shaft",
+    "ko": "축",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "press die",
+    "ko": "프레스 금형",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "robot arm",
+    "ko": "로봇 팔",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "equipment",
+    "ko": "설비",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pneumatic",
+    "ko": "공압의",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "spindle",
+    "ko": "주축",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bolster",
+    "ko": "볼스터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "joint",
+    "ko": "관절",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "device",
+    "ko": "장치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "fluid",
+    "ko": "유체",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "gear",
+    "ko": "기어",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "slide",
+    "ko": "슬라이드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "axis",
+    "ko": "축 방향",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "component",
+    "ko": "구성품",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "viscosity",
+    "ko": "점도",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "gearbox",
+    "ko": "기어박스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "ram",
+    "ko": "램",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "end effector",
+    "ko": "말단장치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "assembly",
+    "ko": "조립체",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "lubricant",
+    "ko": "윤활제",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "reducer",
+    "ko": "감속기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "die cushion",
+    "ko": "다이 쿠션",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "gripper",
+    "ko": "그리퍼",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "programmable logic controller",
+    "ko": "프로그램 가능 논리 제어기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "grease",
+    "ko": "그리스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "sprocket",
+    "ko": "스프로킷",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "punch",
+    "ko": "펀치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "tool center point",
+    "ko": "공구 중심점",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "mechanism",
+    "ko": "기구",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pump",
+    "ko": "펌프",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "chain",
+    "ko": "체인",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "die holder",
+    "ko": "금형 홀더",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "payload",
+    "ko": "가반하중",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "structure",
+    "ko": "구조",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "compressor",
+    "ko": "압축기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pulley",
+    "ko": "풀리",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "tagout",
+    "ko": "표지에 의한 에너지 차단",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "human machine interface",
+    "ko": "운전자 조작 화면",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "frame",
+    "ko": "프레임",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "reservoir",
+    "ko": "유체 저장탱크",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "timing belt",
+    "ko": "타이밍 벨트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "blanking",
+    "ko": "블랭킹",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "teach pendant",
+    "ko": "티치 펜던트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "base",
+    "ko": "기초부",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "accumulator",
+    "ko": "축압기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bushing",
+    "ko": "부싱",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "piercing",
+    "ko": "피어싱",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "jogging",
+    "ko": "조그 조작",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "housing",
+    "ko": "하우징",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "regulator",
+    "ko": "조절기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "sleeve",
+    "ko": "슬리브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bending",
+    "ko": "굽힘 가공",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "homing",
+    "ko": "원점 복귀",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "enclosure",
+    "ko": "외함",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "manifold",
+    "ko": "매니폴드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "flange",
+    "ko": "플랜지",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "forming",
+    "ko": "성형",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "mastering",
+    "ko": "로봇 축 기준 설정",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "panel",
+    "ko": "패널",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "fitting",
+    "ko": "관 이음쇠",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bracket",
+    "ko": "브래킷",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "lockout",
+    "ko": "잠금에 의한 에너지 차단",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "trajectory",
+    "ko": "궤적",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "control panel",
+    "ko": "제어반",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "coupling",
+    "ko": "커플링",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "mount",
+    "ko": "장착부",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "stamping",
+    "ko": "프레스 성형",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "waypoint",
+    "ko": "경유점",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "terminal",
+    "ko": "단자",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "hose",
+    "ko": "호스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "fastener",
+    "ko": "체결부품",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "tandem line",
+    "ko": "탠덤 라인",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "interpolation",
+    "ko": "보간",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "terminal block",
+    "ko": "단자대",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pipe",
+    "ko": "배관",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "screw",
+    "ko": "나사",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "transfer press",
+    "ko": "트랜스퍼 프레스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "singularity",
+    "ko": "특이점",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "wire",
+    "ko": "전선",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "tube",
+    "ko": "튜브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "hex bolt",
+    "ko": "육각볼트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "feed pitch",
+    "ko": "피드 피치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "coordinate system",
+    "ko": "좌표계",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "cable",
+    "ko": "케이블",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "seal",
+    "ko": "씰",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "hex nut",
+    "ko": "육각너트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "top dead center",
+    "ko": "상사점",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "base frame",
+    "ko": "베이스 좌표계",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "harness",
+    "ko": "배선 묶음",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "gasket",
+    "ko": "개스킷",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "washer",
+    "ko": "와셔",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bottom dead center",
+    "ko": "하사점",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "tool frame",
+    "ko": "툴 좌표계",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "conduit",
+    "ko": "전선관",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "o-ring",
+    "ko": "오링",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "spring washer",
+    "ko": "스프링 와셔",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shut height",
+    "ko": "셧하이트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "collision",
+    "ko": "충돌",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "insulation",
+    "ko": "절연",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "piston",
+    "ko": "피스톤",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "dowel pin",
+    "ko": "위치결정 핀",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "die height",
+    "ko": "다이하이트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "collision detection",
+    "ko": "충돌 감지",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "conductor",
+    "ko": "도체",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "rod",
+    "ko": "로드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "clevis pin",
+    "ko": "클레비스 핀",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "tonnage",
+    "ko": "가압 능력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "handshake",
+    "ko": "신호 연동",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "grounding",
+    "ko": "접지",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "safety circuit",
+    "ko": "안전 회로",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "cotter pin",
+    "ko": "분할핀",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "safety door",
+    "ko": "안전문",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "program number",
+    "ko": "프로그램 번호",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bonding",
+    "ko": "금속부 전기적 연결",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "stroke",
+    "ko": "행정",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "retaining ring",
+    "ko": "멈춤링",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "clutch",
+    "ko": "클러치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "cycle time",
+    "ko": "사이클 시간",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shield",
+    "ko": "차폐물",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "flow",
+    "ko": "유량",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "thread",
+    "ko": "나사산",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "flywheel",
+    "ko": "플라이휠",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "automatic mode",
+    "ko": "자동 모드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "fuse",
+    "ko": "퓨즈",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "leak",
+    "ko": "누설",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pitch",
+    "ko": "피치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "enabling switch",
+    "ko": "인에이블 스위치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "manual mode",
+    "ko": "수동 모드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "breaker",
+    "ko": "차단기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "leakage",
+    "ko": "누설 현상",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "diameter",
+    "ko": "직경",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "lifter",
+    "ko": "리프터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "external mode",
+    "ko": "외부 제어 모드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "circuit breaker",
+    "ko": "회로 차단기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "photoelectric sensor",
+    "ko": "광전 센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "radius",
+    "ko": "반지름",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "t-slot",
+    "ko": "T홈",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "dry run",
+    "ko": "시험 운전",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "contactor",
+    "ko": "전자접촉기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "proximity sensor",
+    "ko": "근접 센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "length",
+    "ko": "길이",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "scrap chute",
+    "ko": "스크랩 배출구",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "welding",
+    "ko": "용접",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "transformer",
+    "ko": "변압기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "vent",
+    "ko": "배기구",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "width",
+    "ko": "폭",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "die sensor",
+    "ko": "금형 센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "spot welding",
+    "ko": "점용접",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "rectifier",
+    "ko": "정류기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "drain",
+    "ko": "배수·배유구",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "depth",
+    "ko": "깊이",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "stored energy",
+    "ko": "축적 에너지",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "weld gun",
+    "ko": "용접건",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "inverter",
+    "ko": "인버터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "exhaust",
+    "ko": "배기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "thickness",
+    "ko": "두께",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "weld current",
+    "ko": "용접전류",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "converter",
+    "ko": "변환기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "intake",
+    "ko": "흡입",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "clearance",
+    "ko": "틈새",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "weld time",
+    "ko": "통전시간",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "resistor",
+    "ko": "저항기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "return line",
+    "ko": "복귀 배관",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "backlash",
+    "ko": "백래시",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "electrode force",
+    "ko": "전극 가압력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "capacitor",
+    "ko": "축전기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "supply line",
+    "ko": "공급 배관",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "alignment",
+    "ko": "정렬",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "argon",
+    "ko": "아르곤",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "inductive sensor",
+    "ko": "유도형 센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "check valve",
+    "ko": "체크 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "misalignment",
+    "ko": "정렬 불량",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shielding gas",
+    "ko": "보호가스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "diode",
+    "ko": "다이오드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "relief valve",
+    "ko": "릴리프 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "limit switch",
+    "ko": "리미트 스위치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "wire feeder",
+    "ko": "용접 와이어 송급기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "transistor",
+    "ko": "트랜지스터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "directional valve",
+    "ko": "방향 제어 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "actuator",
+    "ko": "구동기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "stud welding",
+    "ko": "스터드 용접",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "magnetic sensor",
+    "ko": "자기 센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "flow control valve",
+    "ko": "유량 제어 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "flatness",
+    "ko": "평탄도",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "bolt tightening",
+    "ko": "볼트 체결",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "solenoid",
+    "ko": "솔레노이드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "solenoid valve",
+    "ko": "솔레노이드 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "encoder",
+    "ko": "엔코더",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "torque wrench",
+    "ko": "토크 렌치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "coil",
+    "ko": "코일",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "ball valve",
+    "ko": "볼 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "servo",
+    "ko": "서보",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "preventive maintenance",
+    "ko": "예방보전",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "ladder logic",
+    "ko": "래더 로직",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "overload",
+    "ko": "과부하",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "digital",
+    "ko": "디지털",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "predictive maintenance",
+    "ko": "예지보전",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "electrode",
+    "ko": "전극",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "shutoff valve",
+    "ko": "차단 밸브",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "torque",
+    "ko": "토크",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "corrective maintenance",
+    "ko": "고장보전",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "function block",
+    "ko": "펑션 블록",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pressure gauge",
+    "ko": "압력계",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "force",
+    "ko": "힘",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "downtime",
+    "ko": "비가동 시간",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "scan cycle",
+    "ko": "스캔 주기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "air filter",
+    "ko": "공기 필터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "load",
+    "ko": "하중",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "root cause",
+    "ko": "근본 원인",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "polarity",
+    "ko": "극성",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "air dryer",
+    "ko": "공기 건조기",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "light curtain",
+    "ko": "안전 광전자식 방호장치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "troubleshooting",
+    "ko": "고장 진단",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "resistance",
+    "ko": "저항",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "residual pressure",
+    "ko": "잔압",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "thermocouple",
+    "ko": "열전대",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "failure mode",
+    "ko": "고장 형태",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "impedance",
+    "ko": "임피던스",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "double acting cylinder",
+    "ko": "복동 실린더",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "temperature sensor",
+    "ko": "온도 센서",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "setpoint",
+    "ko": "설정값",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "timer",
+    "ko": "타이머",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "single acting cylinder",
+    "ko": "단동 실린더",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pressure switch",
+    "ko": "압력 스위치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "wear limit",
+    "ko": "마모 한계",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "counter",
+    "ko": "카운터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "ground fault",
+    "ko": "지락",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "crack",
+    "ko": "균열",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "safety relay",
+    "ko": "안전 릴레이",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "frequency",
+    "ko": "주파수",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "vacuum pump",
+    "ko": "진공펌프",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "corrosion",
+    "ko": "부식",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "latch",
+    "ko": "래치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "suction cup",
+    "ko": "흡착 패드",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "rust",
+    "ko": "녹",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "signal",
+    "ko": "신호",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "input",
+    "ko": "입력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "abrasion",
+    "ko": "마모",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "waveform",
+    "ko": "파형",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "clamping force",
+    "ko": "클램핑력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "vibration",
+    "ko": "진동",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "power",
+    "ko": "전력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "pressure drop",
+    "ko": "압력 강하",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "hazard",
+    "ko": "위험원",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "watt",
+    "ko": "와트",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "friction",
+    "ko": "마찰",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "volt",
+    "ko": "볼트·전압 단위",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "multimeter",
+    "ko": "멀티미터",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "ampere",
+    "ko": "암페어",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "calibration",
+    "ko": "교정",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "ohm",
+    "ko": "옴",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "output",
+    "ko": "출력",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "hertz",
+    "ko": "헤르츠",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "analog",
+    "ko": "아날로그",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "alternating current",
+    "ko": "교류",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "direct current",
+    "ko": "직류",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "single phase",
+    "ko": "단상",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "three phase",
+    "ko": "삼상",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "power supply",
+    "ko": "전원 공급장치",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "continuity",
+    "ko": "도통",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "short circuit",
+    "ko": "단락",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "open circuit",
+    "ko": "단선 회로",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "overcurrent",
+    "ko": "과전류",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "overvoltage",
+    "ko": "과전압",
+    "pron": "",
+    "category": "work"
+  },
+  {
+    "en": "how are you",
+    "ko": "어떻게 지내세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "nice to meet you",
+    "ko": "만나서 반갑습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "good morning",
+    "ko": "좋은 아침입니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "good afternoon",
+    "ko": "안녕하세요·오후 인사",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "good evening",
+    "ko": "안녕하세요·저녁 인사",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "good night",
+    "ko": "안녕히 주무세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "see you later",
+    "ko": "나중에 봐요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "see you tomorrow",
+    "ko": "내일 봐요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take care",
+    "ko": "잘 지내세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "have a nice day",
+    "ko": "좋은 하루 보내세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "thank you",
+    "ko": "감사합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "thank you very much",
+    "ko": "정말 감사합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "you are welcome",
+    "ko": "천만에요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "excuse me",
+    "ko": "실례합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i am sorry",
+    "ko": "미안합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "no problem",
+    "ko": "문제없습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "never mind",
+    "ko": "신경 쓰지 마세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "of course",
+    "ko": "물론입니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "not at all",
+    "ko": "전혀 아닙니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "that is right",
+    "ko": "맞습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i understand",
+    "ko": "이해합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i do not understand",
+    "ko": "이해하지 못합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i do not know",
+    "ko": "모르겠습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i am not sure",
+    "ko": "확실하지 않습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "could you repeat that",
+    "ko": "다시 말씀해 주시겠어요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "please speak slowly",
+    "ko": "천천히 말씀해 주세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "what does it mean",
+    "ko": "무슨 뜻인가요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "how do you spell it",
+    "ko": "철자가 어떻게 되나요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "what do you mean",
+    "ko": "무슨 말씀이세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "let me check",
+    "ko": "확인해 보겠습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "just a moment",
+    "ko": "잠시만요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "wait a minute",
+    "ko": "잠깐 기다리세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "give me a hand",
+    "ko": "저 좀 도와주세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "can you help me",
+    "ko": "도와주실 수 있나요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "may i ask a question",
+    "ko": "질문해도 될까요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "let me know",
+    "ko": "알려주세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "keep in touch",
+    "ko": "계속 연락해요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get in touch",
+    "ko": "연락하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "as soon as possible",
+    "ko": "가능한 한 빨리",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "right away",
+    "ko": "즉시",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get up",
+    "ko": "일어나다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "wake up",
+    "ko": "잠에서 깨다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "go to bed",
+    "ko": "잠자리에 들다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "fall asleep",
+    "ko": "잠들다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "stay up",
+    "ko": "자지 않고 깨어 있다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "lie down",
+    "ko": "눕다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "sit down",
+    "ko": "앉다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "stand up",
+    "ko": "일어서다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "come in",
+    "ko": "들어오다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "go out",
+    "ko": "외출하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "come back",
+    "ko": "돌아오다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "go back",
+    "ko": "돌아가다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get back",
+    "ko": "돌아오다·되찾다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get home",
+    "ko": "집에 도착하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "leave home",
+    "ko": "집을 나서다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "put on",
+    "ko": "입다·착용하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take off",
+    "ko": "벗다·이륙하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "dress up",
+    "ko": "차려입다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "try on",
+    "ko": "입어 보다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "hang up",
+    "ko": "전화를 끊다·걸어 두다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "turn on",
+    "ko": "켜다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "turn off",
+    "ko": "끄다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "turn up",
+    "ko": "높이다·나타나다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "turn down",
+    "ko": "낮추다·거절하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "plug in",
+    "ko": "플러그를 꽂다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "unplug the cable",
+    "ko": "케이블을 뽑다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "pick up",
+    "ko": "집어 들다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "put down",
+    "ko": "내려놓다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "put away",
+    "ko": "제자리에 치우다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "throw away",
+    "ko": "버리다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "clean up",
+    "ko": "청소하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "wash up",
+    "ko": "설거지하다·씻다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "fill up",
+    "ko": "가득 채우다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "use up",
+    "ko": "다 써 버리다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "run out of",
+    "ko": "다 떨어지다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look for",
+    "ko": "찾다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "find out",
+    "ko": "알아내다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look up",
+    "ko": "찾아보다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look at",
+    "ko": "바라보다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look after",
+    "ko": "돌보다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look forward to",
+    "ko": "기대하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look into",
+    "ko": "조사하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "look out",
+    "ko": "조심하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "watch out",
+    "ko": "조심하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "pay attention to",
+    "ko": "주의를 기울이다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take a look",
+    "ko": "한번 보다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "check out",
+    "ko": "확인하다·퇴실하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "check in",
+    "ko": "체크인하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get on",
+    "ko": "탑승하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get off",
+    "ko": "내리다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get in",
+    "ko": "안에 들어가다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get out",
+    "ko": "밖으로 나가다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "turn left",
+    "ko": "좌회전하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "turn right",
+    "ko": "우회전하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "go straight",
+    "ko": "직진하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "on the way",
+    "ko": "가는 도중에",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "by the way",
+    "ko": "그런데",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "in front of",
+    "ko": "앞에",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "next to",
+    "ko": "바로 옆에",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "across from",
+    "ko": "맞은편에",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "how much is it",
+    "ko": "얼마인가요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "how many",
+    "ko": "몇 개",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "how long",
+    "ko": "얼마나 오래·긴",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "how often",
+    "ko": "얼마나 자주",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "how far",
+    "ko": "얼마나 멀리",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i would like",
+    "ko": "저는 원합니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "i would rather",
+    "ko": "차라리 하고 싶습니다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "can i have",
+    "ko": "받을 수 있나요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "may i have the bill",
+    "ko": "계산서 주세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "keep the change",
+    "ko": "거스름돈은 가지세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "pay by card",
+    "ko": "카드로 결제하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "pay in cash",
+    "ko": "현금으로 내다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "on sale",
+    "ko": "할인 중인",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "out of stock",
+    "ko": "재고가 없는",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "in stock",
+    "ko": "재고가 있는",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "for sale",
+    "ko": "판매 중인",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "try it again",
+    "ko": "다시 해 보세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "one more time",
+    "ko": "한 번 더",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "once again",
+    "ko": "다시 한번",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "a little bit",
+    "ko": "조금",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "at least",
+    "ko": "적어도",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "at most",
+    "ko": "많아야",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "at first",
+    "ko": "처음에는",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "at last",
+    "ko": "마침내",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "at once",
+    "ko": "즉시",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "at the moment",
+    "ko": "현재",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "in advance",
+    "ko": "미리",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "in time",
+    "ko": "늦지 않게",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "on time",
+    "ko": "정시에",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "from now on",
+    "ko": "이제부터",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "so far",
+    "ko": "지금까지",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "for now",
+    "ko": "우선은",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "from time to time",
+    "ko": "가끔",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "every now and then",
+    "ko": "이따금",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "all the time",
+    "ko": "항상",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "once in a while",
+    "ko": "가끔",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "day by day",
+    "ko": "날마다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "step by step",
+    "ko": "차근차근",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "sooner or later",
+    "ko": "조만간",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "in the meantime",
+    "ko": "그동안에",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "give up",
+    "ko": "포기하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "carry on",
+    "ko": "계속하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "keep going",
+    "ko": "계속 나아가다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "go ahead",
+    "ko": "진행하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "hold on",
+    "ko": "잠시 기다리다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "slow down",
+    "ko": "속도를 줄이다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "speed up",
+    "ko": "속도를 높이다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "calm down",
+    "ko": "진정하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "cheer up",
+    "ko": "기운을 내다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take it easy",
+    "ko": "무리하지 말다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take a break",
+    "ko": "잠시 쉬다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take your time",
+    "ko": "천천히 하세요",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "make sure",
+    "ko": "확실히 하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "make sense",
+    "ko": "이해가 되다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "make a mistake",
+    "ko": "실수하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "learn from mistakes",
+    "ko": "실수에서 배우다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "do your best",
+    "ko": "최선을 다하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "give it a try",
+    "ko": "한번 시도하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "work out",
+    "ko": "해결되다·운동하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "figure out",
+    "ko": "이해하다·알아내다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "set up",
+    "ko": "설치하다·준비하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "shut down",
+    "ko": "가동을 중지하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "start up",
+    "ko": "가동하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "break down",
+    "ko": "고장 나다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "wear out",
+    "ko": "닳다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "burn out",
+    "ko": "타서 고장 나다·소진되다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "cut off",
+    "ko": "차단하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "switch on",
+    "ko": "스위치를 켜다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "switch off",
+    "ko": "스위치를 끄다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "stand by",
+    "ko": "대기하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "carry out",
+    "ko": "수행하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "follow up",
+    "ko": "후속 조치를 하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "hand over",
+    "ko": "인계하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "take over",
+    "ko": "인수하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "point out",
+    "ko": "지적하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "bring up",
+    "ko": "안건을 꺼내다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "write down",
+    "ko": "적어 두다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "fill in",
+    "ko": "빈칸을 채우다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "fill out",
+    "ko": "양식을 작성하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "back up",
+    "ko": "백업하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "log in",
+    "ko": "로그인하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "log out",
+    "ko": "로그아웃하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "sign in",
+    "ko": "접속·출석 등록하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "sign out",
+    "ko": "로그아웃·퇴실 기록하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "sign up",
+    "ko": "가입하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "sort out",
+    "ko": "정리하다·해결하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "deal with",
+    "ko": "처리하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "come up with",
+    "ko": "생각해 내다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "run into",
+    "ko": "우연히 만나다·문제에 부딪히다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get rid of",
+    "ko": "제거하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be in charge of",
+    "ko": "담당하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be responsible for",
+    "ko": "책임지다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be ready for",
+    "ko": "준비가 되다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be aware of",
+    "ko": "알고 있다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be careful with",
+    "ko": "다룰 때 조심하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be able to",
+    "ko": "할 수 있다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be supposed to",
+    "ko": "하기로 되어 있다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "be used to",
+    "ko": "에 익숙하다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "get used to",
+    "ko": "에 익숙해지다",
+    "pron": "",
+    "category": "phrases"
+  },
+  {
+    "en": "used to",
+    "ko": "과거에 하곤 했다",
+    "pron": "",
+    "category": "phrases"
+  }
+]
